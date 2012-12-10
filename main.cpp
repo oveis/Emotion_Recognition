@@ -10,7 +10,9 @@ using namespace std;
 
 ifstream emotion_class_file;
 ifstream learning_data_file;
+ifstream not_important_words_file;
 map<int, Emotion*> learning_map;
+map<string, int>  not_important_map;
 
 // Get the emotion_class_file data
 void getClassTable(){
@@ -43,6 +45,12 @@ void getLearningData(){
       string word;
       ss << buff;
       ss >> word;
+
+      // Check it this word is not-importat or not
+      if(not_important_map.find(word) != not_important_map.end()){
+	continue;  // If this is not important word, skip this.
+      }
+
       int word_emotion;
       if(buff.substr(pos+1) == " ")
 	word_emotion = 0;
@@ -62,29 +70,46 @@ void getLearningData(){
   }
 }
 
+// Get not important words to skip this words in the training data
+void getNotImportantData(){
+  string buff;
+  int index = 0;
+  while(getline(not_important_words_file, buff)){
+    not_important_map[buff] = index;
+  }
+}
+
 int main(int argc, char* argv[]){
   emotion_class_file.open("./data/class_table/emotion_class.txt");
   learning_data_file.open("./data/learning_set/learning.db.txt");
+  not_important_words_file.open("./data/learning_set/not_important_words.txt");
   string input_text;
   
   // Read Class data
   getClassTable();
+
+ // Read not-important-data
+  getNotImportantData();
 
   // Read training data
   getLearningData();
 
   // Input text
   cout << "Input text >> ";
-  cin >> input_text;
+  //cin >> input_text;
+  getline(cin, input_text);
 
   // use Naive Bayes algorithm
   NaiveBayes nb(learning_map);
+  cout << "main : input : " << input_text << endl;
   int emotion_num = nb.getEmotion(input_text);
-  cout << "emotion number : " << emotion_num << endl;
+  string emotion_name = learning_map[emotion_num]->name;
+  cout << "emotion : " << emotion_name << endl;
   
   // close files
   emotion_class_file.close();
   learning_data_file.close();
+  not_important_words_file.close();
 
   return 0;
 }
