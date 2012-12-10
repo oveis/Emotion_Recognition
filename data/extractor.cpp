@@ -7,7 +7,7 @@ using namespace std;
 int main(int argc, char* argv[])
 {
   if(argc < 1){
-    cout << "FORMAT : ./extractor  input_file  output_file" << endl;
+    cout << "FORMAT : ./extractor  input_file(.sim)  output_file(.txt)" << endl;
     return 1;
   }
   
@@ -60,10 +60,10 @@ int main(int argc, char* argv[])
       }
       if((pos = word.find("?")) != string::npos){
 	output_file << word.substr(0, word.size()-1) << " : \n";
-	output_file << "? : 3\n";
+	output_file << "? : \n";
       }else if((pos = word.find("!")) != string::npos){
 	output_file << word.substr(0, word.size()-1) << " : \n";
-	output_file << "! : 6\n";
+	output_file << "! : \n";
       }
       else
 	output_file << word << " : \n";

@@ -1,0 +1,7 @@
+nothing	0
+happy	1
+excited	2
+tender	3
+scared	4
+angry	5
+sad	6

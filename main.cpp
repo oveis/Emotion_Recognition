@@ -5,25 +5,11 @@
 #include <stdlib.h>
 #include <sstream>
 #include "naiveBayes.h"
+#include "emotion_protocol.h"
 using namespace std;
 
 ifstream emotion_class_file;
 ifstream learning_data_file;
-
-struct WordInfo{
-  int count;
-  int emotion_num;  
-  WordInfo(int emotion_num_)
-    :count(1), emotion_num(emotion_num_){ }
-};
-
-struct Emotion{
-  string name;
-  map<string, WordInfo*> words_map;
-  Emotion(string name_)
-    :name(name_){ }
-};
-
 map<int, Emotion*> learning_map;
 
 // Get the emotion_class_file data
@@ -45,12 +31,14 @@ void getLearningData(){
   int sentence_emotion = 0;
   while(getline(learning_data_file, buff)){
     int pos;
-    if((pos = buff.find("@")) != string::npos){  // sentence
+    if((pos = buff.find("@")) != string::npos){         // sentence
       if(buff.substr(pos+1) == " ")
 	sentence_emotion = 0;
       else
 	sentence_emotion = atoi( buff.substr(pos+1).c_str() );
-    }else if((pos = buff.find(":")) != string::npos){ // word
+      // Increate count
+      learning_map[sentence_emotion]->sentence_count++;
+    }else if((pos = buff.find(":")) != string::npos){   // word
       stringstream ss;
       string word;
       ss << buff;
@@ -68,7 +56,7 @@ void getLearningData(){
 	emotion->words_map[word]->count += 1;	
       }
       learning_map[sentence_emotion] = emotion;
-    }else{ // blank
+    }else{                                               // blank
       sentence_emotion = 0;
     }
   }
@@ -89,7 +77,10 @@ int main(int argc, char* argv[]){
   cout << "Input text >> ";
   cin >> input_text;
 
-  // 
+  // use Naive Bayes algorithm
+  NaiveBayes nb(learning_map);
+  int emotion_num = nb.getEmotion(input_text);
+  cout << "emotion number : " << emotion_num << endl;
   
   // close files
   emotion_class_file.close();

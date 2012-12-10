@@ -1,0 +1,7 @@
+0	nothing	
+1	bright	: greeting, congratulation, love, happy
+2	dark	: angry, brief, serious
+3	question  : question
+4	positive  : understand, agree, OK
+5	negative  : refuse, disagree
+6	excited	  : surprise, emphasize
