@@ -1,18 +1,18 @@
-Oh, look! There's Joey's picture! @ 
+Oh, look! There's Joey's picture! @ 2
 Oh : 
-look : 
-! : 6
+look : 2
+! :
 There's : 
 Joey's : 
 picture : 
-! : 6
+! :
 
-This is so exciting! @ 
+This is so exciting! @ 2
 This : 
 is : 
 so : 
-exciting : 
-! : 6
+exciting : 2
+! :
 
 You can spot someone who's never seen his plays. @ 
 You : 
@@ -28,7 +28,7 @@ plays :
 Notice, no fear. No sense of impending doom. @ 
 Notice : 
 no : 
-fear : 
+fear : 4
 No : 
 sense : 
 of : 
@@ -51,15 +51,15 @@ Vic :
 Shapiro : 
 " : 
 
-We came on the wrong night. @ 
+We came on the wrong night. @ 6
 We : 
 came : 
 on : 
 the : 
-wrong : 
+wrong : 6
 night : 
 
-I can't believe I forgot a magazine. @ 
+I can't believe I forgot a magazine. @ 5
 I : 
 can't : 
 believe : 
@@ -79,11 +79,11 @@ I :
 don't : 
 know : 
 
-The exclamation point scares me. It's not just Freud, it's Freud! @ 
+The exclamation point scares me. It's not just Freud, it's Freud! @ 2
 The : 
 exclamation : 
 point : 
-scares : 
+scares : 4
 me : 
 It's : 
 not : 
@@ -91,15 +91,15 @@ just :
 Freud : 
 it's : 
 Freud : 
-! : 6
+! :
 
-Magic is about to happen! @ 
+Magic is about to happen! @ 2
 Magic : 
 is : 
 about : 
 to : 
-happen : 
-! : 6
+happen : 2
+! :
 
 Well, Eva... @ 
 Well : 
@@ -168,10 +168,10 @@ With :
 the : 
 Butt : 
 
-I feel violated. @ 
+I feel violated. @ 6
 I : 
 feel : 
-violated : 
+violated : 6
 
 Did anybody else feel like peeling their skin off... @ 
 Did : 
@@ -191,7 +191,7 @@ something :
 else : 
 to : 
 do : 
-? : 3
+? :
 
 Ross, 1 0:00. @ 
 Ross : 
@@ -201,21 +201,21 @@ Ross :
 Is it? It feels like 2. @ 
 Is : 
 it : 
-? : 3
+? :
 It : 
 feels : 
 like : 
 2 : 
 
--No, 1 0:00! -What? @ 
+-No, 1 0:00! -What? @ 4
 No : 
 1 : 
 0:00 : 
-! : 6
-What : 
-? : 3
+! :
+What : 4
+? :
 
-There's a beautiful woman at 8, 9, 1 0:00! @ 
+There's a beautiful woman at 8, 9, 1 0:00! @ 2
 There's : 
 a : 
 beautiful : 
@@ -225,16 +225,16 @@ at :
 9 : 
 1 : 
 0:00 : 
-! : 6
+! :
 
 Hello! @ 
 Hello : 
-! : 6
+! :
 
 She's amazing! She makes the women l dream about look like fat, bald men. @ 
 She's : 
-amazing : 
-! : 6
+amazing : 2
+! :
 She : 
 makes : 
 the : 
@@ -264,7 +264,7 @@ my :
 opening : 
 line : 
 be : 
-? : 3
+? :
 Excuse : 
 me : 
 
@@ -288,7 +288,7 @@ out :
 of : 
 my : 
 league : 
-? : 3
+? :
 Back : 
 me : 
 up : 
@@ -328,21 +328,21 @@ guys :
 
 -You could do that. -You think? @ 
 You : 
-could : 
+could : 3
 do : 
 that : 
 You : 
 think : 
-? : 3
+? :
 
-Absolutely! @ 
-Absolutely : 
-! : 6
+Absolutely! @ 2
+Absolutely : 2
+! :
 
-I can't believe I'm considering this. @ 
+I can't believe I'm considering this. @ 4
 I : 
 can't : 
-believe : 
+believe : 4
 I'm : 
 considering : 
 this : 
@@ -358,7 +358,7 @@ tongue :
 Come : 
 on : 
 
-Here goes. @ 
+Here goes. @ 2
 Here : 
 goes : 
 
@@ -380,7 +380,7 @@ this :
 
 -Yes? -Hi. @ 
 Yes : 
-? : 3
+? :
 Hi : 
 
 Okay, next word would be... @ 
@@ -403,7 +403,7 @@ and :
 
 Hi! @ 
 Hi : 
-! : 6
+! :
 
 Yes, you said that. @ 
 Yes : 
@@ -413,7 +413,7 @@ that :
 
 Yes! Yes, I did. But what I didn't say.... @ 
 Yes : 
-! : 6
+! :
 Yes : 
 I : 
 did : 
@@ -440,7 +440,7 @@ go :
 out : 
 with : 
 me : 
-? : 3
+? :
 Thank : 
 you : 
 Good : 
@@ -448,45 +448,45 @@ night :
 
 Chandler? @ 
 Chandler : 
-? : 3
+? :
 
--I didn't know you could dance! -You were in a play! @ 
+-I didn't know you could dance! -You were in a play! @ 2
 I : 
 didn't : 
 know : 
 you : 
 could : 
 dance : 
-! : 6
+! :
 You : 
 were : 
 in : 
 a : 
 play : 
-! : 6
+! :
 
 What'd you think? @ 
 What'd : 
 you : 
 think : 
-? : 3
+? :
 
--I didn't know you could dance! -You were in a play! @ 
+-I didn't know you could dance! -You were in a play! @ 2
 I : 
 didn't : 
 know : 
 you : 
 could : 
 dance : 
-! : 6
+! :
 You : 
 were : 
 in : 
 a : 
 play : 
-! : 6
+! :
 
-It wasn't that bad. I was the lead. @ 
+It wasn't that bad. I was the lead. @ 1
 It : 
 wasn't : 
 that : 
@@ -526,9 +526,9 @@ How :
 about : 
 that : 
 accent : 
-? : 3
+? :
 
-Yeah. All of your W's were V's. @ 
+Yeah. All of your W's were V's. @ 1
 Yeah : 
 All : 
 of : 
@@ -537,17 +537,17 @@ W's :
 were : 
 V's : 
 
-She said yes! @ 
+She said yes! @ 2
 She : 
 said : 
-yes : 
-! : 6
+yes : 2
+! :
 
-Awful play, man! @ 
-Awful : 
+Awful play, man! @ 6
+Awful : 6
 play : 
 man : 
-! : 6
+! :
 
 Her name's Aurora. She's ltalian and she pronounces my name " Chandler. " @ 
 Her : 
@@ -581,7 +581,7 @@ this :
 What : 
 is : 
 it : 
-? : 3
+? :
 The : 
 Estelle : 
 Leonard : 
@@ -589,7 +589,7 @@ T :
 alent : 
 Agency : 
 
-An agency left its card. They wanna sign me! @ 
+An agency left its card. They wanna sign me! @ 2
 An : 
 agency : 
 left : 
@@ -597,27 +597,27 @@ its :
 card : 
 They : 
 wanna : 
-sign : 
+sign : 2
 me : 
-! : 6
+! :
 
 Based on this play? @ 
 Based : 
 on : 
 this : 
 play : 
-? : 3
+? :
 
-Based on this play! @ 
+Based on this play! @ 2
 Based : 
 on : 
 this : 
-play : 
-! : 6
+play : 2
+! :
 
-Look! There's a note on the back. @ 
-Look : 
-! : 6
+Look! There's a note on the back. @ 2
+Look : 2
+! :
 There's : 
 a : 
 note : 
@@ -635,13 +635,13 @@ a :
 sap : 
 " : 
 
-She was obviously very moved! @ 
+She was obviously very moved! @ 2
 She : 
 was : 
 obviously : 
 very : 
 moved : 
-! : 6
+! :
 
 You should call her fairly quickly. @ 
 You : 
@@ -651,19 +651,19 @@ her :
 fairly : 
 quickly : 
 
-Yeah! As soon as possible! @ 
-Yeah : 
-! : 6
+Yeah! As soon as possible! @ 2
+Yeah : 2
+! :
 As : 
 soon : 
 as : 
 possible : 
-! : 6
+! :
 
 Come in! @ 
 Come : 
 in : 
-! : 6
+! :
 
 Hi. I'm here to see Estelle Leonard. @ 
 Hi : 
@@ -692,7 +692,7 @@ Hello :
 You' : 
 re : 
 Estelle : 
-? : 3
+? :
 I : 
 know : 
 
@@ -718,13 +718,13 @@ darling :
 Sit : 
 already : 
 
-I can't tell you how excited I am to be here. @ 
+I can't tell you how excited I am to be here. @ 2
 I : 
 can't : 
 tell : 
 you : 
 how : 
-excited : 
+excited : 2
 I : 
 am : 
 to : 
@@ -734,7 +734,7 @@ here :
 Why not? @ 
 Why : 
 not : 
-? : 3
+? :
 
 -What I meant was -You don't mind if I eat, do you? @ 
 What : 
@@ -749,13 +749,13 @@ I :
 eat : 
 do : 
 you : 
-? : 3
+? :
 
 Joey... @ 
 Joey : 
 
-...sweetheart, let me ask you a question. @ 
-sweetheart : 
+...sweetheart, let me ask you a question. @ 3
+sweetheart : 3
 let : 
 me : 
 ask : 
@@ -773,17 +773,17 @@ movie :
 Sleepless : 
 in : 
 Seattle : 
-? : 3
+? :
 
--Wow! Do you represent those actors? -No. @ 
-Wow : 
-! : 6
+-Wow! Do you represent those actors? -No. @ 2
+Wow : 2
+! :
 Do : 
 you : 
 represent : 
 those : 
 actors : 
-? : 3
+? :
 No : 
 
 But you know the end, where they' re happy? @ 
@@ -796,7 +796,7 @@ where :
 they' : 
 re : 
 happy : 
-? : 3
+? :
 
 That's gonna be you and me. @ 
 That's : 
@@ -813,7 +813,7 @@ you :
 wanna : 
 sign : 
 me : 
-? : 3
+? :
 
 No, I wanna go to the top of the Empire State Building and make out. @ 
 No : 
@@ -839,7 +839,7 @@ I :
 wanna : 
 sign : 
 you : 
-! : 6
+! :
 
 -Miss Leonard, I'm so -Oh, boy. @ 
 Miss : 
@@ -855,15 +855,15 @@ them :
 cowboy : 
 l' : 
 m : 
-sorry : 
-! : 6
+sorry : 6
+! :
 
-I don't see it! @ 
+I don't see it! @ 6
 I : 
 don't : 
 see : 
 it : 
-! : 6
+! :
 
 -T ry to look through it. -Unfocus your eyes. @ 
 T : 
@@ -878,22 +878,22 @@ eyes :
 
 Focus? There's nothing to focus on. @ 
 Focus : 
-? : 3
+? :
 There's : 
 nothing : 
 to : 
 focus : 
 on : 
 
--It's the Statue of Liberty! -Right! @ 
+-It's the Statue of Liberty! -Right! @ 2
 It's : 
 the : 
 Statue : 
 of : 
 Liberty : 
-! : 6
-Right : 
-! : 6
+! :
+Right : 2
+! :
 
 -Where's the Statue of Liberty? -There. @ 
 Where's : 
@@ -901,7 +901,7 @@ the :
 Statue : 
 of : 
 Liberty : 
-? : 3
+? :
 There : 
 
 I can't not see it now. @ 
@@ -915,7 +915,7 @@ now :
 Hey, kids! @ 
 Hey : 
 kids : 
-! : 6
+! :
 
 Come here. Do you see anything here? @ 
 Come : 
@@ -925,7 +925,7 @@ you :
 see : 
 anything : 
 here : 
-? : 3
+? :
 
 -lt looks like a boat. -A boat. @ 
 lt : 
@@ -967,15 +967,15 @@ was :
 your : 
 date : 
 Chandler : 
-? : 3
+? :
 
-It was unbelievable! @ 
+It was unbelievable! @ 2
 It : 
 was : 
-unbelievable : 
-! : 6
+unbelievable : 2
+! :
 
-I've never met anyone like her. She's had an amazing life! @ 
+I've never met anyone like her. She's had an amazing life! @ 2
 I've : 
 never : 
 met : 
@@ -985,9 +985,9 @@ her :
 She's : 
 had : 
 an : 
-amazing : 
+amazing : 2
 life : 
-! : 6
+! :
 
 She was in the Israeli army. @ 
 She : 
@@ -1020,7 +1020,7 @@ barely :
 and : 
 l : 
 
-I've been talking about myself all night long. I'm sorry. @ 
+I've been talking about myself all night long. I'm sorry. @ 6
 I've : 
 been : 
 talking : 
@@ -1030,13 +1030,13 @@ all :
 night : 
 long : 
 I'm : 
-sorry : 
+sorry : 6
 
 What about you? T ell me a story. @ 
 What : 
 about : 
 you : 
-? : 3
+? :
 T : 
 ell : 
 me : 
@@ -1112,7 +1112,7 @@ sorry :
 so : 
 "we" : 
 is : 
-? : 3
+? :
 
 "We" is me and Rick. @ 
 "We" : 
@@ -1124,12 +1124,12 @@ Rick :
 Who's Rick? @ 
 Who's : 
 Rick : 
-? : 3
+? :
 
 Who's Rick? @ 
 Who's : 
 Rick : 
-? : 3
+? :
 
 My husband. @ 
 My : 
@@ -1141,20 +1141,20 @@ so :
 you' : 
 re : 
 divorced : 
-? : 3
+? :
 No : 
 
-I' m sorry. So you' re widowed? Hopefully? @ 
+I' m sorry. So you' re widowed? Hopefully? @ 6
 I' : 
 m : 
-sorry : 
+sorry : 6
 So : 
 you' : 
 re : 
 widowed : 
-? : 3
-Hopefully : 
-? : 3
+? :
+Hopefully : 6
+? :
 
 No, l' m still married. @ 
 No : 
@@ -1194,7 +1194,7 @@ change :
 in : 
 my : 
 pocket : 
-? : 3
+? :
 
 Don't worry. @ 
 Don't : 
@@ -1214,11 +1214,11 @@ Ethan :
 
 Ethan? There's an Ethan? @ 
 Ethan : 
-? : 3
+? :
 There's : 
 an : 
 Ethan : 
-? : 3
+? :
 
 Ethan is my boyfriend. @ 
 Ethan : 
@@ -1226,9 +1226,9 @@ is :
 my : 
 boyfriend : 
 
-What? @ 
-What : 
-? : 3
+What? @ 2
+What : 2
+? :
 
 What kind of relationship do you imagine us having... @ 
 What : 
@@ -1250,7 +1250,7 @@ husband :
 and : 
 a : 
 boyfriend : 
-? : 3
+? :
 
 I suppose, mainly sexual. @ 
 I : 
@@ -1270,7 +1270,7 @@ What :
 not : 
 work : 
 out : 
-? : 3
+? :
 I'm : 
 seeing : 
 her : 
@@ -1278,23 +1278,23 @@ again :
 on : 
 Thursday : 
 
-Didn't you listen to the story? @ 
+Didn't you listen to the story? @ 5
 Didn't : 
 you : 
 listen : 
 to : 
 the : 
 story : 
-? : 3
+? :
 
-Didn't you listen? It's twisted! @ 
-Didn't : 
+Didn't you listen? It's twisted! @ 5
+Didn't : 5
 you : 
 listen : 
-? : 3
+? :
 It's : 
-twisted : 
-! : 6
+twisted : 2
+! :
 
 How could you get involved with her? @ 
 How : 
@@ -1304,7 +1304,7 @@ get :
 involved : 
 with : 
 her : 
-? : 3
+? :
 
 I had trouble with it at first. But I get the good stuff. @ 
 I : 
@@ -1339,17 +1339,17 @@ of :
 the : 
 responsibility : 
 
--This is every guy's fantasy! -That's not true! @ 
+-This is every guy's fantasy! -That's not true! @ 5
 This : 
 is : 
 every : 
 guy's : 
-fantasy : 
-! : 6
+fantasy : 2
+! :
 That's : 
 not : 
-true : 
-! : 6
+true : 5
+! :
 
 -Ross, is this your fantasy? -No, of course not. @ 
 Ross : 
@@ -1357,7 +1357,7 @@ is :
 this : 
 your : 
 fantasy : 
-? : 3
+? :
 No : 
 of : 
 course : 
@@ -1380,12 +1380,12 @@ out :
 with : 
 someone : 
 else : 
-? : 3
+? :
 
 -I couldn't. -Good for you. @ 
 I : 
 couldn't : 
-Good : 
+Good : 1
 for : 
 you : 
 
@@ -1447,7 +1447,7 @@ to :
 do : 
 with : 
 Chandler : 
-? : 3
+? :
 
 Nothing. @ 
 Nothing : 
@@ -1484,8 +1484,8 @@ mean :
 anthropologically : 
 speaking : 
 
-Fine. Now you'll never know. @ 
-Fine : 
+Fine. Now you'll never know. @ 6
+Fine : 6
 Now : 
 you'll : 
 never : 
@@ -1499,13 +1499,13 @@ T :
 ell : 
 us : 
 
--We wanna know. -Come on! @ 
+-We wanna know. -Come on! @ 2
 We : 
 wanna : 
 know : 
-Come : 
+Come : 2
 on : 
-! : 6
+! :
 
 All right. There's a theory put forth by Richard Leakey @ 
 All : 
@@ -1528,25 +1528,25 @@ other :
 this : 
 way : 
 now : 
-? : 3
+? :
 I : 
 like : 
 it : 
 
-Look! I cleaned! @ 
-Look : 
-! : 6
+Look! I cleaned! @ 2
+Look : 2
+! :
 I : 
-cleaned : 
-! : 6
+cleaned : 2
+! :
 
-I did the windows. I did the floors. @ 
+I did the windows. I did the floors. @ 1
 I : 
-did : 
+did : 1
 the : 
 windows : 
 I : 
-did : 
+did : 1
 the : 
 floors : 
 
@@ -1564,7 +1564,7 @@ one :
 What's : 
 it : 
 for : 
-? : 3
+? :
 
 Nobody knows. And we're not supposed to ask. @ 
 Nobody : 
@@ -1581,17 +1581,17 @@ What :
 do : 
 you : 
 think : 
-? : 3
+? :
 
--It's very clean. -Really, it looks great! @ 
+-It's very clean. -Really, it looks great! @ 1
 It's : 
 very : 
 clean : 
-Really : 
+Really : 1
 it : 
 looks : 
-great : 
-! : 6
+great : 1
+! :
 
 I see you moved the green ottoman. @ 
 I : 
@@ -1607,7 +1607,7 @@ How :
 did : 
 that : 
 happen : 
-? : 3
+? :
 
 I don't know. It looked better there. @ 
 I : 
@@ -1628,17 +1628,17 @@ around :
 the : 
 table : 
 
-Yeah, it's interesting. @ 
+Yeah, it's interesting. @ 2
 Yeah : 
 it's : 
-interesting : 
+interesting : 2
 
 But you know what? Just for fun... @ 
 But : 
 you : 
 know : 
 what : 
-? : 3
+? :
 Just : 
 for : 
 fun : 
@@ -1681,10 +1681,10 @@ for :
 a : 
 while : 
 
-I can't believe you moved the green ottoman. @ 
+I can't believe you moved the green ottoman. @ 4
 I : 
 can't : 
-believe : 
+believe : 4
 you : 
 moved : 
 the : 
@@ -1712,8 +1712,8 @@ I :
 am : 
 not : 
 that : 
-bad : 
-! : 6
+bad : 5
+! :
 Yeah : 
 you : 
 are : 
@@ -1724,18 +1724,18 @@ I :
 lived : 
 with : 
 you : 
-? : 3
+? :
 You : 
 were : 
 a : 
 little : 
 
-That is so unfair! @ 
+That is so unfair! @ 5
 That : 
 is : 
 so : 
-unfair : 
-! : 6
+unfair : 5
+! :
 
 When we were kids, yours was the only Raggedy Ann doll that wasn't raggedy. @ 
 When : 
@@ -1753,23 +1753,23 @@ that :
 wasn't : 
 raggedy : 
 
-Okay, so I'm responsible. I'm organized. @ 
+Okay, so I'm responsible. I'm organized. @ 1
 Okay : 
 so : 
 I'm : 
-responsible : 
+responsible : 1
 I'm : 
-organized : 
+organized : 1
 
-But hey, I can be a kook! @ 
+But hey, I can be a kook! @ 5
 But : 
-hey : 
+hey : 5
 I : 
 can : 
 be : 
 a : 
-kook : 
-! : 6
+kook : 5
+! :
 
 All right, you madcap gal! @ 
 All : 
@@ -1777,7 +1777,7 @@ right :
 you : 
 madcap : 
 gal : 
-! : 6
+! :
 
 Imagine this. @ 
 Imagine : 
@@ -1796,15 +1796,15 @@ it :
 right : 
 away : 
 
--Why not? -Because you're a kook! @ 
+-Why not? -Because you're a kook! @ 2
 Why : 
 not : 
-? : 3
+? :
 Because : 
 you're : 
 a : 
-kook : 
-! : 6
+kook : 2
+! :
 
 You wait until they send a notice. @ 
 You : 
@@ -1860,19 +1860,19 @@ would :
 someone : 
 do : 
 that : 
-? : 3
+? :
 
 One might wonder. @ 
 One : 
 might : 
 wonder : 
 
-But I would be fine with that. @ 
+But I would be fine with that. @ 1
 But : 
 I : 
 would : 
 be : 
-fine : 
+fine : 1
 with : 
 that : 
 
@@ -1904,16 +1904,16 @@ to :
 the : 
 wood : 
 
-Stop it! @ 
-Stop : 
+Stop it! @ 5
+Stop : 5
 it : 
-! : 6
+! :
 
-Oh, my God! @ 
+Oh, my God! @ 5
 Oh : 
 my : 
-God : 
-! : 6
+God : 5
+! :
 
 It's true. Who am l? @ 
 It's : 
@@ -1921,7 +1921,7 @@ true :
 Who : 
 am : 
 l : 
-? : 3
+? :
 
 Monica, you' re Mom. @ 
 Monica : 
@@ -1929,11 +1929,11 @@ you' :
 re : 
 Mom : 
 
-Oh, my God! @ 
+Oh, my God! @ 2
 Oh : 
 my : 
-God : 
-! : 6
+God : 2
+! :
 
 Okay, I'll be there. @ 
 Okay : 
@@ -1962,25 +1962,25 @@ new :
 Al : 
 Pacino : 
 movie : 
-! : 6
+! :
 
 -That's great! -What's the part? @ 
 That's : 
 great : 
-! : 6
+! :
 What's : 
 the : 
 part : 
-? : 3
+? :
 
-Can you believe it? Pacino! This guy's why I became an actor! @ 
+Can you believe it? Pacino! This guy's why I became an actor! @ 2
 Can : 
 you : 
-believe : 
+believe : 2
 it : 
-? : 3
-Pacino : 
-! : 6
+? :
+Pacino : 2
+! :
 This : 
 guy's : 
 why : 
@@ -1988,27 +1988,27 @@ I :
 became : 
 an : 
 actor : 
-! : 6
+! :
 
-" Out of order? You' re out of order! This whole courtroom's out of order! " @ 
+" Out of order? You' re out of order! This whole courtroom's out of order! " @ 2
 " : 
 Out : 
 of : 
 order : 
-? : 3
+? :
 You' : 
 re : 
 out : 
 of : 
-order : 
-! : 6
+order : 2
+! :
 This : 
 whole : 
 courtroom's : 
 out : 
 of : 
-order : 
-! : 6
+order : 2
+! :
 " : 
 
 Seriously, what's the part? @ 
@@ -2016,9 +2016,9 @@ Seriously :
 what's : 
 the : 
 part : 
-? : 3
+? :
 
-"Just when I thought I was out, they pull me back in! " @ 
+"Just when I thought I was out, they pull me back in! " @ 5
 "Just : 
 when : 
 I : 
@@ -2027,28 +2027,28 @@ I :
 was : 
 out : 
 they : 
-pull : 
+pull : 5
 me : 
 back : 
 in : 
-! : 6
+! :
 " : 
 
-Come on. Seriously, Joey, what's the part? @ 
+Come on. Seriously, Joey, what's the part? @ 2
 Come : 
 on : 
-Seriously : 
+Seriously : 2
 Joey : 
 what's : 
 the : 
 part : 
-? : 3
+? :
 
-You' re.... What? @ 
+You' re.... What? @ 2
 You' : 
 re : 
 What : 
-? : 3
+? :
 
 I' m his butt double, okay? @ 
 I' : 
@@ -2057,11 +2057,11 @@ his :
 butt : 
 double : 
 okay : 
-? : 3
+? :
 
-I play Al Pacino's butt. @ 
+I play Al Pacino's butt. @ 2
 I : 
-play : 
+play : 2
 Al : 
 Pacino's : 
 butt : 
@@ -2069,7 +2069,7 @@ butt :
 All right? He goes into the shower, and then... @ 
 All : 
 right : 
-? : 3
+? :
 He : 
 goes : 
 into : 
@@ -2085,11 +2085,11 @@ m :
 his : 
 butt : 
 
-Oh, my God! @ 
+Oh, my God! @ 2
 Oh : 
 my : 
-God : 
-! : 6
+God : 2
+! :
 
 Come on, you guys. @ 
 Come : 
@@ -2097,20 +2097,20 @@ on :
 you : 
 guys : 
 
-It's a real Pacino movie and that's big! @ 
+It's a real Pacino movie and that's big! @ 2
 It's : 
 a : 
-real : 
+real : 2
 Pacino : 
 movie : 
 and : 
 that's : 
-big : 
-! : 6
+big : 2
+! :
 
-It's terrific. You deserve this. @ 
+It's terrific. You deserve this. @ 1
 It's : 
-terrific : 
+terrific : 1
 You : 
 deserve : 
 this : 
@@ -2128,30 +2128,30 @@ into :
 show : 
 business : 
 
-Fine. Make jokes, I don't care. @ 
-Fine : 
+Fine. Make jokes, I don't care. @ 6
+Fine : 6
 Make : 
-jokes : 
+jokes : 6
 I : 
 don't : 
-care : 
+care : 6
 
--This is a big break for me! -You' re right. It is. @ 
+-This is a big break for me! -You' re right. It is. @ 2
 This : 
 is : 
 a : 
 big : 
-break : 
+break : 2
 for : 
 me : 
-! : 6
+! :
 You' : 
 re : 
 right : 
 It : 
 is : 
 
-So, will you invite us to the big opening? @ 
+So, will you invite us to the big opening? @ 2
 So : 
 will : 
 you : 
@@ -2161,7 +2161,7 @@ to :
 the : 
 big : 
 opening : 
-? : 3
+? :
 
 -I need some moisturizer. -For what? @ 
 I : 
@@ -2170,7 +2170,7 @@ some :
 moisturizer : 
 For : 
 what : 
-? : 3
+? :
 
 T oday's the big day! @ 
 T : 
@@ -2178,14 +2178,14 @@ oday's :
 the : 
 big : 
 day : 
-! : 6
+! :
 
 You got any tweezers? I think I have a rogue hair. @ 
 You : 
 got : 
 any : 
 tweezers : 
-? : 3
+? :
 I : 
 think : 
 I : 
@@ -2237,32 +2237,32 @@ wanna :
 go : 
 in : 
 there : 
-! : 6
+! :
 Come : 
 on : 
 we' : 
 re : 
 roommates : 
 
-My eyes! My eyes! @ 
+My eyes! My eyes! @ 6
 My : 
 eyes : 
-! : 6
+! :
 My : 
 eyes : 
-! : 6
+! :
 
-I warned you. @ 
+I warned you. @ 3
 I : 
 warned : 
 you : 
 
-Who is being loud? @ 
+Who is being loud? @ 2
 Who : 
 is : 
 being : 
 loud : 
-? : 3
+? :
 
 Oh, that would be Monica. @ 
 Oh : 
@@ -2276,7 +2276,7 @@ Can :
 I : 
 borrow : 
 stuff : 
-? : 3
+? :
 I : 
 wanna : 
 make : 
@@ -2289,7 +2289,7 @@ got :
 the : 
 whole : 
 night : 
-? : 3
+? :
 
 Well, I only have 20 minutes until Ethan, so.... @ 
 Well : 
@@ -2307,7 +2307,7 @@ Do :
 I : 
 sense : 
 resentment : 
-? : 3
+? :
 
 No. No resentment. Believe me... @ 
 No : 
@@ -2316,12 +2316,12 @@ resentment :
 Believe : 
 me : 
 
-...it's worth it, okay? @ 
+...it's worth it, okay? @ 2
 it's : 
 worth : 
 it : 
-okay : 
-? : 3
+okay : 2
+? :
 
 In a relationship, you have moments you'll remember the rest of your life. @ 
 In : 
@@ -2369,7 +2369,7 @@ me :
 with : 
 the : 
 door : 
-? : 3
+? :
 
 The old Monica would remind you... @ 
 The : 
@@ -2403,13 +2403,13 @@ that :
 Excuse me? Can they warm it up? I' m concerned about goose bumps. @ 
 Excuse : 
 me : 
-? : 3
+? :
 Can : 
 they : 
 warm : 
 it : 
 up : 
-? : 3
+? :
 I' : 
 m : 
 concerned : 
@@ -2417,15 +2417,15 @@ about :
 goose : 
 bumps : 
 
-Everybody ready? @ 
+Everybody ready? @ 2
 Everybody : 
-ready : 
-? : 3
+ready : 2
+? :
 
-I wanna thank you for this opportunity. @ 
+I wanna thank you for this opportunity. @ 1
 I : 
 wanna : 
-thank : 
+thank : 1
 you : 
 for : 
 this : 
@@ -2453,13 +2453,13 @@ Lose :
 the : 
 robe : 
 
-Right. Okay. Losing the robe! @ 
+Right. Okay. Losing the robe! @ 5
 Right : 
 Okay : 
-Losing : 
+Losing : 5
 the : 
 robe : 
-! : 6
+! :
 
 Okay, and the robe is lost. @ 
 Okay : 
@@ -2480,24 +2480,24 @@ in :
 one : 
 take : 
 
-Let's roll it. @ 
+Let's roll it. @ 2
 Let's : 
-roll : 
+roll : 2
 it : 
 
 Water's working. @ 
 Water's : 
 working : 
 
-And action! @ 
+And action! @ 2
 And : 
-action : 
-! : 6
+action : 2
+! :
 
-And cut! @ 
+And cut! @ 5
 And : 
-cut : 
-! : 6
+cut : 5
+! :
 
 Butt guy, what are you doing? @ 
 Butt : 
@@ -2506,7 +2506,7 @@ what :
 are : 
 you : 
 doing : 
-? : 3
+? :
 
 I'm showering. @ 
 I'm : 
@@ -2530,15 +2530,15 @@ upset :
 here : 
 you : 
 know : 
-? : 3
+? :
 
-His wife's dead, his brother's missing. @ 
+His wife's dead, his brother's missing. @ 6
 His : 
 wife's : 
-dead : 
+dead : 6
 his : 
 brother's : 
-missing : 
+missing : 6
 
 I think his butt would be angry here. @ 
 I : 
@@ -2547,7 +2547,7 @@ his :
 butt : 
 would : 
 be : 
-angry : 
+angry : 5
 here : 
 
 I think his butt would like to get the shot before lunch. @ 
@@ -2564,26 +2564,26 @@ shot :
 before : 
 lunch : 
 
-Once again, rolling. Water working. @ 
+Once again, rolling. Water working. @ 2
 Once : 
 again : 
-rolling : 
+rolling : 2
 Water : 
 working : 
 
-And action! @ 
+And action! @ 2
 And : 
-action : 
-! : 6
+action : 2
+! :
 
 And cut! What was that? @ 
 And : 
-cut : 
-! : 6
-What : 
+cut : 5
+! :
+What : 5
 was : 
 that : 
-? : 3
+? :
 
 I was going for quiet desperation. @ 
 I : 
@@ -2591,7 +2591,7 @@ was :
 going : 
 for : 
 quiet : 
-desperation : 
+desperation : 6
 
 But if you have to ask.... @ 
 But : 
@@ -2601,15 +2601,15 @@ have :
 to : 
 ask : 
 
-God, I love these fingers. @ 
-God : 
+God, I love these fingers. @ 2
+God : 2
 I : 
-love : 
+love : 2
 these : 
 fingers : 
 
-Thank you. @ 
-Thank : 
+Thank you. @ 1
+Thank : 1
 you : 
 
 No, actually, I meant my fingers. @ 
@@ -2631,17 +2631,17 @@ happy :
 they : 
 are : 
 
--Oh, my God, l' m late! -Oh, no! @ 
+-Oh, my God, l' m late! -Oh, no! @ 4
 Oh : 
 my : 
-God : 
+God : 4
 l' : 
 m : 
-late : 
-! : 6
+late : 4
+! :
 Oh : 
-no : 
-! : 6
+no : 6
+! :
 
 -Don't go. -Okay. @ 
 Don't : 
@@ -2659,7 +2659,7 @@ leaving :
 I' m sorry. He'll be waiting for me. @ 
 I' : 
 m : 
-sorry : 
+sorry : 6
 He'll : 
 be : 
 waiting : 
@@ -2679,13 +2679,13 @@ Rick :
 
 Ethan? He gets the whole day! @ 
 Ethan : 
-? : 3
+? :
 He : 
 gets : 
 the : 
 whole : 
 day : 
-! : 6
+! :
 
 No, it's Andrew. @ 
 No : 
@@ -2713,7 +2713,7 @@ but :
 And : 
 Andrew : 
 is : 
-? : 3
+? :
 He's : 
 
 ... new. @ 
@@ -2732,7 +2732,7 @@ Rick :
 Ethan : 
 and : 
 myself : 
-? : 3
+? :
 
 No, that's not exactly what I was @ 
 No : 
@@ -2762,7 +2762,7 @@ what :
 do : 
 you : 
 want : 
-? : 3
+? :
 You : 
 
 -You have me. -No. Just you. @ 
@@ -2778,7 +2778,7 @@ What :
 do : 
 you : 
 mean : 
-? : 3
+? :
 Lose : 
 the : 
 other : 
@@ -2789,18 +2789,18 @@ Like :
 all : 
 of : 
 them : 
-? : 3
+? :
 
-Come on, we' re great together. Why not? @ 
+Come on, we' re great together. Why not? @ 2
 Come : 
 on : 
 we' : 
 re : 
-great : 
+great : 2
 together : 
 Why : 
 not : 
-? : 3
+? :
 
 Can't we have what we have now? @ 
 Can't : 
@@ -2810,7 +2810,7 @@ what :
 we : 
 have : 
 now : 
-? : 3
+? :
 
 Why can't we talk and make love... @ 
 Why : 
@@ -2828,14 +2828,14 @@ obligated :
 to : 
 each : 
 other : 
-? : 3
+? :
 
-Up until tonight, I thought that's what you wanted too. @ 
+Up until tonight, I thought that's what you wanted too. @ 3
 Up : 
 until : 
 tonight : 
 I : 
-thought : 
+thought : 3
 that's : 
 what : 
 you : 
@@ -2864,8 +2864,8 @@ guy's :
 saying : 
 "This : 
 is : 
-great : 
-! : 6
+great : 2
+! :
 " : 
 
 But there's this other guy. @ 
@@ -2894,7 +2894,7 @@ that :
 measuring : 
 device : 
 
-He's saying, you know, "This is too hard. Get out! " @ 
+He's saying, you know, "This is too hard. Get out! " @ 5
 He's : 
 saying : 
 you : 
@@ -2902,13 +2902,13 @@ know :
 "This : 
 is : 
 too : 
-hard : 
+hard : 5
 Get : 
-out : 
-! : 6
+out : 5
+! :
 " : 
 
-So, which one of the guys will you listen to? @ 
+So, which one of the guys will you listen to? @ 2
 So : 
 which : 
 one : 
@@ -2919,7 +2919,7 @@ will :
 you : 
 listen : 
 to : 
-? : 3
+? :
 
 I have to listen to both. They don't let each other finish. @ 
 I : 
@@ -2938,14 +2938,14 @@ finish :
 Which one? @ 
 Which : 
 one : 
-? : 3
+? :
 
 The second guy. @ 
 The : 
 second : 
 guy : 
 
-I see. @ 
+I see. @ 6
 I : 
 see : 
 
@@ -2976,11 +2976,11 @@ way :
 You : 
 dumped : 
 her : 
-! : 6
+! :
 
 Right? I mean, this woman was unbelievably sexy... @ 
 Right : 
-? : 3
+? :
 I : 
 mean : 
 this : 
@@ -3004,16 +3004,16 @@ you :
 did : 
 this : 
 again : 
-? : 3
+? :
 
-Movie star! @ 
+Movie star! @ 2
 Movie : 
-star : 
-! : 6
+star : 2
+! :
 
-Wait! Aren't you the guy who plays the butt in the new Pacino movie? @ 
-Wait : 
-! : 6
+Wait! Aren't you the guy who plays the butt in the new Pacino movie? @ 1
+Wait : 2
+! :
 Aren't : 
 you : 
 the : 
@@ -3027,24 +3027,24 @@ the :
 new : 
 Pacino : 
 movie : 
-? : 3
+? :
 
-Nope. @ 
-Nope : 
+Nope. @ 6
+Nope : 6
 
-No? What happened, big guy? @ 
+No? What happened, big guy? @ 3
 No : 
-? : 3
+? :
 What : 
 happened : 
 big : 
 guy : 
-? : 3
+? :
 
 Big guy? @ 
 Big : 
 guy : 
-? : 3
+? :
 
 It felt like a "big guy" moment. @ 
 It : 
@@ -3055,11 +3055,11 @@ a :
 guy" : 
 moment : 
 
-I got fired! @ 
+I got fired! @ 5
 I : 
 got : 
-fired : 
-! : 6
+fired : 5
+! :
 
 They said I acted too much with it. @ 
 They : 
@@ -3071,13 +3071,13 @@ much :
 with : 
 it : 
 
-I told everybody about this! @ 
+I told everybody about this! @ 2
 I : 
 told : 
 everybody : 
 about : 
 this : 
-! : 6
+! :
 
 -Everybody's expecting to see me. -lKnow what? @ 
 Everybody's : 
@@ -3087,7 +3087,7 @@ see :
 me : 
 lKnow : 
 what : 
-? : 3
+? :
 
 -No one will be able to tell. -My mom will. @ 
 No : 
@@ -3111,7 +3111,7 @@ disturbing :
 about : 
 that : 
 
-I've done crappy plays for six years... @ 
+I've done crappy plays for six years... @ 6
 I've : 
 done : 
 crappy : 
@@ -3120,7 +3120,7 @@ for :
 six : 
 years : 
 
-...and I finally get my shot, and I blow it! @ 
+...and I finally get my shot, and I blow it! @ 5
 and : 
 I : 
 finally : 
@@ -3129,9 +3129,9 @@ my :
 shot : 
 and : 
 I : 
-blow : 
+blow : 5
 it : 
-! : 6
+! :
 
 Maybe this wasn't it. @ 
 Maybe : 
@@ -3139,9 +3139,9 @@ this :
 wasn't : 
 it : 
 
-I think when it's your shot, you know it's your shot. @ 
+I think when it's your shot, you know it's your shot. @ 3
 I : 
-think : 
+think : 3
 when : 
 it's : 
 your : 
@@ -3159,7 +3159,7 @@ feel :
 like : 
 your : 
 shot : 
-? : 3
+? :
 
 Hard to tell. I was naked. @ 
 Hard : 
@@ -3169,24 +3169,24 @@ I :
 was : 
 naked : 
 
-I don't think this was it. I don't think you just get one. @ 
+I don't think this was it. I don't think you just get one. @ 3
 I : 
 don't : 
-think : 
+think : 3
 this : 
 was : 
 it : 
 I : 
 don't : 
-think : 
+think : 3
 you : 
 just : 
 get : 
 one : 
 
-I believe things are gonna happen for you. I do. @ 
+I believe things are gonna happen for you. I do. @ 3
 I : 
-believe : 
+believe : 3
 things : 
 are : 
 gonna : 
@@ -3194,7 +3194,7 @@ happen :
 for : 
 you : 
 I : 
-do : 
+do : 3
 
 You've got to think about the day some kid will go: @ 
 You've : 
@@ -3209,12 +3209,12 @@ kid :
 will : 
 go: : 
 
-"l got the part! I'm gonna be Joey T ribbiani's ass! " @ 
+"l got the part! I'm gonna be Joey T ribbiani's ass! " @ 2
 "l : 
-got : 
+got : 2
 the : 
 part : 
-! : 6
+! :
 I'm : 
 gonna : 
 be : 
@@ -3222,16 +3222,16 @@ Joey :
 T : 
 ribbiani's : 
 ass : 
-! : 6
+! :
 " : 
 
-You think? That's so nice. @ 
+You think? That's so nice. @ 1
 You : 
 think : 
-? : 3
+? :
 That's : 
 so : 
-nice : 
+nice : 1
 
 I' m sorry, Joey. I' m gonna go to bed, guys. @ 
 I' : 
@@ -3246,7 +3246,7 @@ to :
 bed : 
 guys : 
 
--Good night. -Good night. @ 
+-Good night. -Good night. @ 1
 Good : 
 night : 
 Good : 
@@ -3261,11 +3261,11 @@ your :
 shoes : 
 out : 
 here : 
-? : 3
+? :
 
 Really? Just casually strewn about... @ 
 Really : 
-? : 3
+? :
 Just : 
 casually : 
 strewn : 
@@ -3277,7 +3277,7 @@ that :
 reckless : 
 haphazard : 
 manner : 
-? : 3
+? :
 
 It doesn't matter. I'll get them tomorrow. Or not! @ 
 It : 
@@ -3289,7 +3289,7 @@ them :
 tomorrow : 
 Or : 
 not : 
-! : 6
+! :
 
 Whenever. @ 
 Whenever : 
@@ -3315,19 +3315,19 @@ get :
 the : 
 shoes : 
 
-No, don 't do this! @ 
+No, don 't do this! @ 5
 No : 
-don : 
+don : 5
 't : 
 do : 
 this : 
-! : 6
+! :
 
-This is stupid! @ 
+This is stupid! @ 5
 This : 
 is : 
-stupid : 
-! : 6
+stupid : 5
+! :
 
 I don 't have to prove anything. I'm gonna get them. @ 
 I : 
@@ -3364,11 +3364,11 @@ put :
 them : 
 back : 
 
-I need help! @ 
+I need help! @ 6
 I : 
 need : 
-help : 
-! : 6
+help : 6
+! :
 
 -All you want is a dinkle -Not that song! @ 
 All : 
@@ -3377,10 +3377,10 @@ want :
 is : 
 a : 
 dinkle : 
-Not : 
+Not : 5
 that : 
 song : 
-! : 6
+! :
 
 -All you envy's a schwang -Come on, you guys. @ 
 All : 
@@ -3443,4 +3443,3 @@ or :
 simply : 
 let : 
 hang : 
-
