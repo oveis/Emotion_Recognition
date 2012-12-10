@@ -8,14 +8,14 @@ a :
 big : 
 deal : 
 
-Not a big deal? It's amazing. You reach in, there's one maneuver and bam! @ 
+Not a big deal? It's amazing. You reach in, there's one maneuver and bam! @ 2
 Not : 
 a : 
 big : 
 deal : 
-? : 3
+? :
 It's : 
-amazing : 
+amazing : 2
 You : 
 reach : 
 in : 
@@ -24,7 +24,7 @@ one :
 maneuver : 
 and : 
 bam : 
-! : 6
+! :
 
 A bra. Right out the sleeve. @ 
 A : 
@@ -48,12 +48,12 @@ that :
 comes : 
 close : 
 Right : 
-? : 3
+? :
 
 Come on! You guys can pee standing up. @ 
 Come : 
 on : 
-! : 6
+! :
 You : 
 guys : 
 can : 
@@ -64,7 +64,7 @@ up :
 We can? Okay, I'm trying that. @ 
 We : 
 can : 
-? : 3
+? :
 Okay : 
 I'm : 
 trying : 
@@ -76,7 +76,7 @@ what :
 blows : 
 my : 
 mind : 
-? : 3
+? :
 
 Women can see breasts anytime they want. @ 
 Women : 
@@ -107,7 +107,7 @@ is :
 beyond : 
 me : 
 
-I don't get how guys can do so many mean things... @ 
+I don't get how guys can do so many mean things... @ 6
 I : 
 don't : 
 get : 
@@ -117,7 +117,7 @@ can :
 do : 
 so : 
 many : 
-mean : 
+mean : 6
 things : 
 
 ...and not even care. @ 
@@ -126,10 +126,10 @@ not :
 even : 
 care : 
 
--Multiple orgasms! -There you go. @ 
+-Multiple orgasms! -There you go. @ 2
 Multiple : 
-orgasms : 
-! : 6
+orgasms : 2
+! :
 There : 
 you : 
 go : 
@@ -144,33 +144,33 @@ German :
 Laundry : 
 Detergent : 
 
-Saturday night. The big night! @ 
+Saturday night. The big night! @ 2
 Saturday : 
 night : 
 The : 
-big : 
+big : 2
 night : 
-! : 6
+! :
 
-Date night! Saturday night. Saturday night! @ 
-Date : 
+Date night! Saturday night. Saturday night! @ 2
+Date : 2
 night : 
-! : 6
-Saturday : 
+! :
+Saturday : 2
 night : 
-Saturday : 
+Saturday : 2
 night : 
-! : 6
+! :
 
 -No plans, huh? -Not a one! @ 
 No : 
 plans : 
 huh : 
-? : 3
+? :
 Not : 
 a : 
 one : 
-! : 6
+! :
 
 Not even breaking up with Janice? @ 
 Not : 
@@ -179,19 +179,19 @@ breaking :
 up : 
 with : 
 Janice : 
-? : 3
+? :
 
-Right, right. Shut up. @ 
+Right, right. Shut up. @ 5
 Right : 
 right : 
-Shut : 
+Shut : 5
 up : 
 
 Chandler, nobody likes breaking up with someone. @ 
 Chandler : 
 nobody : 
 likes : 
-breaking : 
+breaking : 6
 up : 
 with : 
 someone : 
@@ -207,7 +207,7 @@ rot :
 in : 
 hell : 
 
--You just gotta do it. -I know. But it's just so hard. @ 
+-You just gotta do it. -I know. But it's just so hard. @ 6
 You : 
 just : 
 gotta : 
@@ -219,7 +219,7 @@ But :
 it's : 
 just : 
 so : 
-hard : 
+hard : 6
 
 You're sitting there with her. She has no idea. @ 
 You're : 
@@ -270,7 +270,7 @@ finished :
 the : 
 note : 
 
-Why do you have to break up with her? Be a man. Just stop calling. @ 
+Why do you have to break up with her? Be a man. Just stop calling. @ 2
 Why : 
 do : 
 you : 
@@ -280,7 +280,7 @@ break :
 up : 
 with : 
 her : 
-? : 3
+? :
 Be : 
 a : 
 man : 
@@ -317,20 +317,20 @@ dump :
 T : 
 ony : 
 
--You're breaking up with T ony? -He's sweet, but it's not fun anymore. @ 
+-You're breaking up with T ony? -He's sweet, but it's not fun anymore. @ 6
 You're : 
 breaking : 
 up : 
 with : 
 T : 
 ony : 
-? : 3
+? :
 He's : 
 sweet : 
 but : 
 it's : 
 not : 
-fun : 
+fun : 1
 anymore : 
 
 I don't know if it's me or his hunger strike, I don't know. @ 
@@ -354,7 +354,7 @@ you :
 want : 
 anything : 
 else : 
-? : 3
+? :
 
 You had a nutty, chocolate-y, kind of cake-y, pie thing that @ 
 You : 
@@ -378,11 +378,11 @@ fine :
 What's wrong? Why so scrunchie? @ 
 What's : 
 wrong : 
-? : 3
+? :
 Why : 
 so : 
 scrunchie : 
-? : 3
+? :
 
 My father wants to give me a Mercedes convertible. @ 
 My : 
@@ -414,11 +414,11 @@ move :
 back : 
 home : 
 
-It was horrible! He called me "young lady. " @ 
+It was horrible! He called me "young lady. " @ 5
 It : 
 was : 
-horrible : 
-! : 6
+horrible : 5
+! :
 He : 
 called : 
 me : 
@@ -426,9 +426,9 @@ me :
 lady : 
 " : 
 
-I hate when my father calls me that. @ 
+I hate when my father calls me that. @ 5
 I : 
-hate : 
+hate : 5
 when : 
 my : 
 father : 
@@ -447,7 +447,7 @@ up :
 to : 
 this" : 
 again : 
-? : 3
+? :
 
 I got the extended version with choruses of... @ 
 I : 
@@ -470,21 +470,21 @@ Your :
 Own : 
 " : 
 
-Hi, Joey. @ 
+Hi, Joey. @ 1
 Hi : 
 Joey : 
 
-Oh, my God! Angela! @ 
+Oh, my God! Angela! @ 2
 Oh : 
 my : 
-God : 
-! : 6
+God : 2
+! :
 Angela : 
-! : 6
+! :
 
-Wow! Being dumped by you agrees with her. @ 
-Wow : 
-! : 6
+Wow! Being dumped by you agrees with her. @ 2
+Wow : 2
+! :
 Being : 
 dumped : 
 by : 
@@ -500,7 +500,7 @@ gonna :
 go : 
 over : 
 there : 
-? : 3
+? :
 No : 
 Yeah : 
 No : 
@@ -531,15 +531,15 @@ seems :
 pretty : 
 cool : 
 
--Hey, Angela. -Joey. @ 
+-Hey, Angela. -Joey. @ 1
 Hey : 
 Angela : 
 Joey : 
 
-You look good. @ 
+You look good. @ 1
 You : 
 look : 
-good : 
+good : 1
 
 That's because l' m wearing a dress that accents my boobs. @ 
 That's : 
@@ -567,11 +567,11 @@ are :
 you : 
 doing : 
 tonight : 
-? : 3
+? :
 
-Big glamour night. Me and Monica at Launderama. @ 
+Big glamour night. Me and Monica at Launderama. @ 1
 Big : 
-glamour : 
+glamour : 1
 night : 
 Me : 
 and : 
@@ -579,39 +579,39 @@ Monica :
 at : 
 Launderama : 
 
-You wanna hear a freakish coincidence? Guess who's doing laundry there too? @ 
+You wanna hear a freakish coincidence? Guess who's doing laundry there too? @ 2
 You : 
 wanna : 
 hear : 
 a : 
 freakish : 
 coincidence : 
-? : 3
+? :
 Guess : 
 who's : 
 doing : 
 laundry : 
 there : 
 too : 
-? : 3
+? :
 
 -Who? -Me! @ 
 Who : 
-? : 3
-Me : 
-! : 6
+? :
+Me : 2
+! :
 
 Was that not clear? @ 
 Was : 
 that : 
 not : 
 clear : 
-? : 3
+? :
 
 Why don't...? @ 
 Why : 
 don't : 
-? : 3
+? :
 
 Why don't I just join you both there? @ 
 Why : 
@@ -622,7 +622,7 @@ join :
 you : 
 both : 
 there : 
-? : 3
+? :
 
 Don't you have a laundry room in your building? @ 
 Don't : 
@@ -634,7 +634,7 @@ room :
 in : 
 your : 
 building : 
-? : 3
+? :
 
 Yes. @ 
 Yes : 
@@ -650,12 +650,12 @@ in :
 my : 
 building : 
 
-But there's a rat problem. @ 
+But there's a rat problem. @ 6
 But : 
 there's : 
 a : 
 rat : 
-problem : 
+problem : 6
 
 Apparently, they're attracted to dryer sheets. @ 
 Apparently : 
@@ -665,12 +665,12 @@ to :
 dryer : 
 sheets : 
 
-They're going in fine, but they're coming out all fluffy. @ 
+They're going in fine, but they're coming out all fluffy. @ 6
 They're : 
 going : 
 in : 
-fine : 
-but : 
+fine : 1
+but : 6
 they're : 
 coming : 
 out : 
@@ -680,11 +680,11 @@ fluffy :
 -Anyway, 7-ish? -Sure. @ 
 Anyway : 
 7ish : 
-? : 3
+? :
 Sure : 
 
--Forget it. I' m with Bob now. -Bob? Who the hell's Bob? @ 
-Forget : 
+-Forget it. I' m with Bob now. -Bob? Who the hell's Bob? @ 5
+Forget : 6
 it : 
 I' : 
 m : 
@@ -692,12 +692,12 @@ with :
 Bob : 
 now : 
 Bob : 
-? : 3
+? :
 Who : 
 the : 
-hell's : 
+hell's : 5
 Bob : 
-? : 3
+? :
 
 Bob is great. He's smart, sophisticated, and he has a real job. @ 
 Bob : 
@@ -728,13 +728,13 @@ an :
 actor : 
 Bob : 
 
-Come on! We were great together. @ 
+Come on! We were great together. @ 2
 Come : 
 on : 
-! : 6
+! :
 We : 
 were : 
-great : 
+great : 2
 together : 
 
 And not just at the fun stuff, but, like, talking too. @ 
@@ -743,7 +743,7 @@ not :
 just : 
 at : 
 the : 
-fun : 
+fun : 1
 stuff : 
 but : 
 like : 
@@ -763,11 +763,11 @@ friends :
 So : 
 guess : 
 what : 
-? : 3
+? :
 
 -What? -We' re just friends. @ 
 What : 
-? : 3
+? :
 We' : 
 re : 
 just : 
@@ -787,7 +787,7 @@ us :
 have : 
 dinner : 
 tonight : 
-? : 3
+? :
 As : 
 friends : 
 
@@ -796,7 +796,7 @@ What :
 "four : 
 of : 
 us" : 
-? : 3
+? :
 
 You and Bob, and me and my girlfriend... @ 
 You : 
@@ -823,10 +823,10 @@ perfect :
 for : 
 you : 
 
-Forget it! Not after your cousin who could belch the alphabet. @ 
-Forget : 
+Forget it! Not after your cousin who could belch the alphabet. @ 5
+Forget : 5 
 it : 
-! : 6
+! :
 Not : 
 after : 
 your : 
@@ -882,14 +882,14 @@ actor :
 but : 
 he's : 
 
--God help us. -What? @ 
-God : 
+-God help us. -What? @ 2
+God : 2
 help : 
 us : 
 What : 
-? : 3
+? :
 
-Ugly Naked Guy is laying kitchen tile. @ 
+Ugly Naked Guy is laying kitchen tile. @ 2
 Ugly : 
 Naked : 
 Guy : 
@@ -927,7 +927,7 @@ What's going on? You go out with tons of girls. @
 What's : 
 going : 
 on : 
-? : 3
+? :
 You : 
 go : 
 out : 
@@ -943,7 +943,7 @@ but :
 Angela's : 
 different : 
 
-She's like one of a kind, like a snowflake or.... @ 
+She's like one of a kind, like a snowflake or.... @ 3
 She's : 
 like : 
 one : 
@@ -961,33 +961,33 @@ else :
 like : 
 a : 
 snowflake : 
-? : 3
+? :
 Yeah : 
 yeah : 
 
-Look, I made a huge mistake. I never should've broke up with her. @ 
+Look, I made a huge mistake. I never should've broke up with her. @ 6
 Look : 
 I : 
 made : 
 a : 
 huge : 
-mistake : 
+mistake : 6
 I : 
 never : 
 should've : 
-broke : 
+broke : 6
 up : 
 with : 
 her : 
 
-Will you help me? Please? @ 
+Will you help me? Please? @ 6
 Will : 
 you : 
 help : 
 me : 
-? : 3
+? :
 Please : 
-? : 3
+? :
 
 Hold on a sec. You need to not touch any of those. @ 
 Hold : 
@@ -1027,7 +1027,7 @@ You've :
 thought : 
 this : 
 through : 
-? : 3
+? :
 
 It's laundry. The thinking-through is minimal. @ 
 It's : 
@@ -1042,13 +1042,13 @@ Just :
 you : 
 and : 
 Rachel : 
-? : 3
+? :
 Just : 
 you : 
 two : 
-? : 3
+? :
 
-This is a date. You're going on a date. @ 
+This is a date. You're going on a date. @ 2
 This : 
 is : 
 a : 
@@ -1079,7 +1079,7 @@ if :
 she : 
 doesn't : 
 know : 
-? : 3
+? :
 
 Yes, absolutely. Saturday night, all rules apply. @ 
 Yes : 
@@ -1095,17 +1095,17 @@ What :
 are : 
 you : 
 saying : 
-? : 3
+? :
 I : 
 should : 
 shave : 
 again : 
-? : 3
+? :
 Pick : 
 up : 
 some : 
 wine : 
-? : 3
+? :
 
 Well, you may wanna rethink the dirty underwear. @ 
 Well : 
@@ -1130,7 +1130,7 @@ You :
 want : 
 it : 
 dirty : 
-? : 3
+? :
 
 No. @ 
 No : 
@@ -1140,7 +1140,7 @@ And :
 the : 
 fabric : 
 softener : 
-? : 3
+? :
 
 Okay, now what is wrong with my Snuggles? @ 
 Okay : 
@@ -1151,17 +1151,17 @@ wrong :
 with : 
 my : 
 Snuggles : 
-? : 3
+? :
 
-What? It says I'm a sensitive, warm kind of guy. @ 
+What? It says I'm a sensitive, warm kind of guy. @ 1
 What : 
-? : 3
+? :
 It : 
 says : 
 I'm : 
 a : 
-sensitive : 
-warm : 
+sensitive : 3
+warm : 3
 kind : 
 of : 
 guy : 
@@ -1195,22 +1195,22 @@ does :
 Bob : 
 look : 
 like : 
-? : 3
+? :
 Is : 
 he : 
 tall : 
 short : 
-? : 3
+? :
 
 Yep. @ 
 Yep : 
 
 -Which? -Which what? @ 
 Which : 
-? : 3
+? :
 Which : 
 what : 
-? : 3
+? :
 
 -You've never met Bob, have you? -No, but @ 
 You've : 
@@ -1219,20 +1219,20 @@ met :
 Bob : 
 have : 
 you : 
-? : 3
+? :
 No : 
 but : 
 
--For all we know, he's horribly -Hey, Joey! @ 
+-For all we know, he's horribly -Hey, Joey! @ 6
 For : 
 all : 
 we : 
 know : 
 he's : 
-horribly : 
-Hey : 
+horribly : 6
+Hey : 6
 Joey : 
-! : 6
+! :
 
 Horribly attractive. I'll be shutting up now. @ 
 Horribly : 
@@ -1247,16 +1247,16 @@ Where are they? Where are they? @
 Where : 
 are : 
 they : 
-? : 3
+? :
 Where : 
 are : 
 they : 
-? : 3
+? :
 
-This is nice. We never do anything, just the two of us. @ 
+This is nice. We never do anything, just the two of us. @ 1
 This : 
 is : 
-nice : 
+nice : 1
 We : 
 never : 
 do : 
@@ -1281,48 +1281,48 @@ over :
 some : 
 puppies : 
 
-I don't wanna do that. @ 
+I don't wanna do that. @ 6
 I : 
 don't : 
 wanna : 
 do : 
 that : 
 
--Here we go. -Have a good breakup. @ 
+-Here we go. -Have a good breakup. @ 6
 Here : 
 we : 
 go : 
 Have : 
 a : 
 good : 
-breakup : 
+breakup : 6
 
--Hey, Janice. -My God, I am so glad you called me. @ 
-Hey : 
+-Hey, Janice. -My God, I am so glad you called me. @ 2
+Hey : 1
 Janice : 
 My : 
-God : 
+God : 2 
 I : 
 am : 
 so : 
-glad : 
+glad : 1 
 you : 
 called : 
 me : 
 
-I had the most supremely awful day. @ 
+I had the most supremely awful day. @ 6
 I : 
 had : 
 the : 
 most : 
 supremely : 
-awful : 
+awful : 6
 day : 
 
-That's not good. @ 
+That's not good. @ 6
 That's : 
 not : 
-good : 
+good : 1
 
 Can I get an espresso and a latte over here? @ 
 Can : 
@@ -1335,9 +1335,9 @@ a :
 latte : 
 over : 
 here : 
-? : 3
+? :
 
-We got the proofs from the shoot with the vegetables. They sucked. @ 
+We got the proofs from the shoot with the vegetables. They sucked. @ 6
 We : 
 got : 
 the : 
@@ -1349,7 +1349,7 @@ with :
 the : 
 vegetables : 
 They : 
-sucked : 
+sucked : 6
 
 I blew off the afternoon. I went shopping. @ 
 I : 
@@ -1383,18 +1383,18 @@ I :
 got : 
 you : 
 What : 
-? : 3
+? :
 
 -What? -What did you get me there? @ 
 What : 
-? : 3
+? :
 What : 
 did : 
 you : 
 get : 
 me : 
 there : 
-? : 3
+? :
 
 I got you... @ 
 I : 
@@ -1449,7 +1449,7 @@ another :
 espresso : 
 More : 
 latte : 
-? : 3
+? :
 
 No, l' m still working on mine. @ 
 No : 
@@ -1463,12 +1463,12 @@ mine :
 -That's it? -Yeah, it was really hard. @ 
 That's : 
 it : 
-? : 3
+? :
 Yeah : 
 it : 
 was : 
 really : 
-hard : 
+hard : 6
 
 -Yeah, the hug looked pretty brutal. -You weren't there. @ 
 Yeah : 
@@ -1482,16 +1482,16 @@ weren't :
 there : 
 
 -Sorry. -How are things going? @ 
-Sorry : 
+Sorry : 6
 How : 
 are : 
 things : 
 going : 
-? : 3
+? :
 
 Going? Things are not going. She got me socks. @ 
 Going : 
-? : 3
+? :
 Things : 
 are : 
 not : 
@@ -1521,12 +1521,12 @@ Coming :
 through : 
 Move : 
 Move : 
-! : 6
+! :
 
-Excuse me! I was kind of using that machine. @ 
-Excuse : 
+Excuse me! I was kind of using that machine. @ 5
+Excuse : 5
 me : 
-! : 6
+! :
 I : 
 was : 
 kind : 
@@ -1559,12 +1559,12 @@ top :
 
 I'm sorry. Is that your basket? @ 
 I'm : 
-sorry : 
+sorry : 6
 Is : 
 that : 
 your : 
 basket : 
-? : 3
+? :
 
 It's pretty. Unfortunately, I don't see suds! @ 
 It's : 
@@ -1574,11 +1574,11 @@ I :
 don't : 
 see : 
 suds : 
-! : 6
+! :
 
 What? @ 
 What : 
-? : 3
+? :
 
 No suds, no save, okay? @ 
 No : 
@@ -1586,18 +1586,18 @@ suds :
 no : 
 save : 
 okay : 
-? : 3
+? :
 
 What's going on? @ 
 What's : 
 going : 
 on : 
-? : 3
+? :
 
-Nothing. This horrible woman just took my machine. @ 
+Nothing. This horrible woman just took my machine. @ 5
 Nothing : 
 This : 
-horrible : 
+horrible : 5
 woman : 
 just : 
 took : 
@@ -1610,7 +1610,7 @@ your :
 basket : 
 on : 
 top : 
-? : 3
+? :
 
 -Yeah, but there were no suds. -So? @ 
 Yeah : 
@@ -1620,9 +1620,9 @@ were :
 no : 
 suds : 
 So : 
-? : 3
+? :
 
--You know, no suds, no save. -No suds, no Excuse me. @ 
+-You know, no suds, no save. -No suds, no Excuse me. @ 5
 You : 
 know : 
 no : 
@@ -1640,30 +1640,30 @@ Hold :
 on : 
 a : 
 second : 
-! : 6
+! :
 This : 
 is : 
 my : 
 friend's : 
 machine : 
 
-Hey, hey, hey! Her stuff wasn't in it! @ 
-Hey : 
-hey : 
-hey : 
-! : 6
+Hey, hey, hey! Her stuff wasn't in it! @ 5
+Hey : 5
+hey : 5
+hey : 5
+! :
 Her : 
 stuff : 
 wasn't : 
 in : 
 it : 
-! : 6
+! :
 
 Hey, hey, hey! That's not the rule, and you know it! @ 
-Hey : 
-hey : 
-hey : 
-! : 6
+Hey : 5
+hey : 5
+hey : 5
+! :
 That's : 
 not : 
 the : 
@@ -1672,9 +1672,9 @@ and :
 you : 
 know : 
 it : 
-! : 6
+! :
 
-All right. Show's over. @ 
+All right. Show's over. @ 6
 All : 
 right : 
 Show's : 
@@ -1696,7 +1696,7 @@ That was amazing! I can't even send back soup. @
 That : 
 was : 
 amazing : 
-! : 6
+! :
 I : 
 can't : 
 even : 
@@ -1718,10 +1718,10 @@ gentle :
 Do you? Do you? Oh, hey. You must need detergent. @ 
 Do : 
 you : 
-? : 3
+? :
 Do : 
 you : 
-? : 3
+? :
 Oh : 
 hey : 
 You : 
@@ -1732,10 +1732,10 @@ detergent :
 -What's that? -Uberweiss. @ 
 What's : 
 that : 
-? : 3
+? :
 Uberweiss : 
 
-It's new. It's German. It's extra tough! @ 
+It's new. It's German. It's extra tough! @ 1
 It's : 
 new : 
 It's : 
@@ -1743,7 +1743,7 @@ German :
 It's : 
 extra : 
 tough : 
-! : 6
+! :
 
 Rach, are you gonna separate those? @ 
 Rach : 
@@ -1752,7 +1752,7 @@ you :
 gonna : 
 separate : 
 those : 
-? : 3
+? :
 
 Oh, God. Am I being a total laundry spaz? @ 
 Oh : 
@@ -1764,7 +1764,7 @@ a :
 total : 
 laundry : 
 spaz : 
-? : 3
+? :
 
 Am I supposed to use one machine for shirts and another for pants? @ 
 Am : 
@@ -1780,7 +1780,7 @@ and :
 another : 
 for : 
 pants : 
-? : 3
+? :
 
 Have you never done this before? @ 
 Have : 
@@ -1789,7 +1789,7 @@ never :
 done : 
 this : 
 before : 
-? : 3
+? :
 
 Well, not myself. But I know other people that have. @ 
 Well : 
@@ -1803,7 +1803,7 @@ people :
 that : 
 have : 
 
-Okay. You caught me. I'm a laundry virgin. @ 
+Okay. You caught me. I'm a laundry virgin. @ 6
 Okay : 
 You : 
 caught : 
@@ -1813,9 +1813,9 @@ a :
 laundry : 
 virgin : 
 
-Don't worry. I'll use the gentle cycle. @ 
+Don't worry. I'll use the gentle cycle. @ 3
 Don't : 
-worry : 
+worry : 3
 I'll : 
 use : 
 the : 
@@ -1880,7 +1880,7 @@ whites :
 or : 
 with : 
 delicates : 
-? : 3
+? :
 
 That would be a judgment call. @ 
 That : 
@@ -1890,11 +1890,11 @@ a :
 judgment : 
 call : 
 
-He's so cute! @ 
+He's so cute! @ 2
 He's : 
 so : 
-cute : 
-! : 6
+cute : 2
+! :
 
 Where did you grow up? @ 
 Where : 
@@ -1902,25 +1902,25 @@ did :
 you : 
 grow : 
 up : 
-? : 3
+? :
 
 -Brooklyn Heights. -Cleveland. @ 
 Brooklyn : 
 Heights : 
 Cleveland : 
 
--How'd that happen? -My God! @ 
+-How'd that happen? -My God! @ 2
 How'd : 
 that : 
 happen : 
-? : 3
+? :
 My : 
-God : 
-! : 6
+God : 2
+! :
 
 What? @ 
 What : 
-? : 3
+? :
 
 I suddenly had the feeling I was falling. @ 
 I : 
@@ -1943,7 +1943,7 @@ you :
 and : 
 Angela : 
 huh : 
-? : 3
+? :
 
 -Yep. Pretty much. -You' re a lucky man. @ 
 Yep : 
@@ -1963,7 +1963,7 @@ miss :
 most : 
 about : 
 her : 
-? : 3
+? :
 
 That cute nibbly noise she makes when she eats. @ 
 That : 
@@ -2004,7 +2004,7 @@ Monica. Monica is great. @
 Monica : 
 Monica : 
 is : 
-great : 
+great : 1
 
 Yeah, she is. @ 
 Yeah : 
@@ -2030,20 +2030,20 @@ bed :
 Sexually. @ 
 Sexually : 
 
-I've gotta tell you, Bob is terrific. @ 
+I've gotta tell you, Bob is terrific. @ 1
 I've : 
 gotta : 
 tell : 
 you : 
 Bob : 
 is : 
-terrific : 
+terrific : 1
 
 Yeah, isn't he? @ 
 Yeah : 
 isn't : 
 he : 
-? : 3
+? :
 
 It's great to meet a smart, funny guy who's emotionally older than 8. @ 
 It's : 
@@ -2060,17 +2060,17 @@ older :
 than : 
 8 : 
 
-You know what else? He's unbelievable in bed! @ 
+You know what else? He's unbelievable in bed! @ 2
 You : 
 know : 
 what : 
 else : 
-? : 3
+? :
 He's : 
-unbelievable : 
+unbelievable : 2
 in : 
 bed : 
-! : 6
+! :
 
 My brother never even told me when he lost his virginity. @ 
 My : 
@@ -2112,14 +2112,14 @@ wound :
 is : 
 exposed : 
 
-Go! Go! @ 
-Go : 
-! : 6
-Go : 
-! : 6
+Go! Go! @ 2
+Go : 2
+! :
+Go : 2
+! :
 
-Hi, Janice. @ 
-Hi : 
+Hi, Janice. @ 1
+Hi : 1
 Janice : 
 
 Here we go. I don't think we should go out anymore. @ 
@@ -2145,12 +2145,12 @@ there :
 you : 
 go : 
 
-Stop it, stop it, stop it. @ 
-Stop : 
+Stop it, stop it, stop it. @ 5
+Stop : 5
 it : 
-stop : 
+stop : 5
 it : 
-stop : 
+stop : 5
 it : 
 
 This isn't about you. @ 
@@ -2159,10 +2159,10 @@ isn't :
 about : 
 you : 
 
-I know! It's about your fear of commitment. @ 
+I know! It's about your fear of commitment. @ 2
 I : 
 know : 
-! : 6
+! :
 It's : 
 about : 
 your : 
@@ -2180,12 +2180,12 @@ afraid :
 Please : 
 I : 
 don't : 
-! : 6
+! :
 
 -I don't! I' m ready to commit anytime. -Really? @ 
 I : 
 don't : 
-! : 6
+! :
 I' : 
 m : 
 ready : 
@@ -2193,7 +2193,7 @@ to :
 commit : 
 anytime : 
 Really : 
-? : 3
+? :
 
 I know this is gonna sound stupid... @ 
 I : 
@@ -2243,7 +2243,7 @@ stupid :
 to : 
 me : 
 
-The first time I had to cook for myself after Carol left me @ 
+The first time I had to cook for myself after Carol left me @ 6
 The : 
 first : 
 time : 
@@ -2258,9 +2258,9 @@ Carol :
 left : 
 me : 
 
-I'm sorry, that's all the time we have. Next on Ross.... @ 
+I'm sorry, that's all the time we have. Next on Ross.... @ 6
 I'm : 
-sorry : 
+sorry : 6
 that's : 
 all : 
 the : 
@@ -2274,7 +2274,7 @@ Ross :
 -Uh-oh. -What? @ 
 Uhoh : 
 What : 
-? : 3
+? :
 
 Uh-oh.... @ 
 Uhoh : 
@@ -2299,7 +2299,7 @@ sing :
 
 Uh-oh! The laundry's done @ 
 Uhoh : 
-! : 6
+! :
 The : 
 laundry's : 
 done : 
@@ -2308,7 +2308,7 @@ done :
 What's : 
 the : 
 matter : 
-? : 3
+? :
 Nothing : 
 
 The laundry's done @ 
@@ -2343,10 +2343,10 @@ kind :
 of : 
 pink : 
 
-Everything's pink? @ 
+Everything's pink? @ 4
 Everything's : 
 pink : 
-? : 3
+? :
 
 Except for the red sock, which is still red. @ 
 Except : 
@@ -2362,7 +2362,7 @@ red :
 Don't be upset. It can happen to anyone. @ 
 Don't : 
 be : 
-upset : 
+upset : 6
 It : 
 can : 
 happen : 
@@ -2376,8 +2376,8 @@ happened :
 to : 
 me : 
 
-God, I'm gonna look like a big Marshmallow Peep! @ 
-God : 
+God, I'm gonna look like a big Marshmallow Peep! @ 5
+God : 5
 I'm : 
 gonna : 
 look : 
@@ -2386,20 +2386,20 @@ a :
 big : 
 Marshmallow : 
 Peep : 
-! : 6
+! :
 
 What am I doing? @ 
 What : 
 am : 
 I : 
 doing : 
-? : 3
+? :
 
 My father's right! I can't live on my own. @ 
 My : 
 father's : 
 right : 
-! : 6
+! :
 I : 
 can't : 
 live : 
@@ -2413,9 +2413,9 @@ can't :
 even : 
 do : 
 laundry : 
-! : 6
+! :
 
-Something went wrong with Underdog and they couldn't inflate his head. @ 
+Something went wrong with Underdog and they couldn't inflate his head. @ 6
 Something : 
 went : 
 wrong : 
@@ -2440,7 +2440,7 @@ flopping :
 down : 
 Broadway : 
 right : 
-? : 3
+? :
 
 And I'm thinking how inappropriate this is. @ 
 And : 
@@ -2451,7 +2451,7 @@ inappropriate :
 this : 
 is : 
 
-Something's in my eye. Could we check it in the light, please? @ 
+Something's in my eye. Could we check it in the light, please? @ 6
 Something's : 
 in : 
 my : 
@@ -2464,15 +2464,15 @@ in :
 the : 
 light : 
 please : 
-? : 3
+? :
 
 -Oh, my God! -What? @ 
 Oh : 
 my : 
 God : 
-! : 6
+! :
 What : 
-? : 3
+? :
 
 Were we at the same table? It's like... @ 
 Were : 
@@ -2481,11 +2481,11 @@ at :
 the : 
 same : 
 table : 
-? : 3
+? :
 It's : 
 like : 
 
-...cocktails in Appalachia. @ 
+...cocktails in Appalachia. @ 2
 cocktails : 
 in : 
 Appalachia : 
@@ -2495,7 +2495,7 @@ They' :
 re : 
 close : 
 Close : 
-? : 3
+? :
 Her : 
 tongue's : 
 in : 
@@ -2513,13 +2513,13 @@ rambunctious :
 with : 
 Ross : 
 
-Joey, this is sick. It's disgusting. It's... @ 
+Joey, this is sick. It's disgusting. It's... @ 6
 Joey : 
 this : 
 is : 
-sick : 
+sick : 6
 It's : 
-disgusting : 
+disgusting : 6
 It's : 
 
 ... not really true' is it? @ 
@@ -2529,7 +2529,7 @@ really :
 true' : 
 is : 
 it : 
-? : 3
+? :
 
 Who's to say what's true? @ 
 Who's : 
@@ -2537,14 +2537,14 @@ to :
 say : 
 what's : 
 true : 
-? : 3
+? :
 
 -What were you thinking? -l' m not proud of this, okay? @ 
 What : 
 were : 
 you : 
 thinking : 
-? : 3
+? :
 l' : 
 m : 
 not : 
@@ -2552,7 +2552,7 @@ proud :
 of : 
 this : 
 okay : 
-? : 3
+? :
 
 Well, maybe I am a little. @ 
 Well : 
@@ -2568,9 +2568,9 @@ m :
 out : 
 of : 
 here : 
-! : 6
+! :
 Wait : 
-! : 6
+! :
 
 You like him. I want her. He likes you. @ 
 You : 
@@ -2585,7 +2585,7 @@ you :
 
 -Really? -Yeah. @ 
 Really : 
-? : 3
+? :
 Yeah : 
 
 If we put our heads together, between the two of us... @ 
@@ -2632,7 +2632,7 @@ story :
 
 Waiter? One more plate of chicken wings over here. @ 
 Waiter : 
-? : 3
+? :
 One : 
 more : 
 plate : 
@@ -2660,22 +2660,22 @@ boom :
 boom : 
 boom : 
 
-Oh, my God! I' m so sorry! @ 
+Oh, my God! I' m so sorry! @ 6
 Oh : 
 my : 
 God : 
-! : 6
+! :
 I' : 
 m : 
 so : 
-sorry : 
-! : 6
+sorry : 6
+! :
 
-Are you okay? @ 
+Are you okay? @ 3
 Are : 
 you : 
 okay : 
-? : 3
+? :
 
 It's just my lens. It's my lens. @ 
 It's : 
@@ -2692,24 +2692,24 @@ be :
 right : 
 back : 
 
-I hit her in the eye! In the eye! @ 
+I hit her in the eye! In the eye! @ 4
 I : 
 hit : 
 her : 
 in : 
 the : 
 eye : 
-! : 6
+! :
 In : 
 the : 
 eye : 
-! : 6
+! :
 
-This is the worst breakup in the history of the world! @ 
+This is the worst breakup in the history of the world! @ 6
 This : 
 is : 
 the : 
-worst : 
+worst : 6
 breakup : 
 in : 
 the : 
@@ -2717,13 +2717,13 @@ history :
 of : 
 the : 
 world : 
-! : 6
+! :
 
-Oh, my God! @ 
+Oh, my God! @ 4
 Oh : 
 my : 
 God : 
-! : 6
+! :
 
 -How many have you had? -I don't know. A million! @ 
 How : 
@@ -2731,13 +2731,13 @@ many :
 have : 
 you : 
 had : 
-? : 3
+? :
 I : 
 don't : 
 know : 
 A : 
 million : 
-! : 6
+! :
 
 Chandler, easy, easy. Go to your happy place. @ 
 Chandler : 
@@ -2749,7 +2749,7 @@ your :
 happy : 
 place : 
 
--l' m fine, l' m fine. -All right. @ 
+-l' m fine, l' m fine. -All right. @ 1
 l' : 
 m : 
 fine : 
@@ -2759,18 +2759,18 @@ fine :
 All : 
 right : 
 
--l' m not fine. Here she is. -Wait here, okay? Breathe. @ 
+-l' m not fine. Here she is. -Wait here, okay? Breathe. @ 4
 l' : 
 m : 
 not : 
-fine : 
+fine : 5
 Here : 
 she : 
 is : 
 Wait : 
 here : 
 okay : 
-? : 3
+? :
 Breathe : 
 
 -How do you do that? -It's like a gift. @ 
@@ -2779,7 +2779,7 @@ do :
 you : 
 do : 
 that : 
-? : 3
+? :
 It's : 
 like : 
 a : 
@@ -2797,7 +2797,7 @@ I'd like that! @
 I'd : 
 like : 
 that : 
-! : 6
+! :
 
 The clothes are clean. That's the important part. @ 
 The : 
@@ -2809,7 +2809,7 @@ the :
 important : 
 part : 
 
-I guess. Except everything looks like jammies now. @ 
+I guess. Except everything looks like jammies now. @ 6
 I : 
 guess : 
 Except : 
@@ -2819,7 +2819,7 @@ like :
 jammies : 
 now : 
 
-I'm sorry. Excuse me. We had this cart. @ 
+I'm sorry. Excuse me. We had this cart. @ 6
 I'm : 
 sorry : 
 Excuse : 
@@ -2869,24 +2869,24 @@ weren't :
 clothes : 
 in : 
 it : 
-! : 6
+! :
 
-Hey, hey, hey, hey! Quit making up rules! @ 
-Hey : 
-hey : 
-hey : 
-hey : 
-! : 6
+Hey, hey, hey, hey! Quit making up rules! @ 5
+Hey : 5
+hey : 5
+hey : 5
+hey : 5
+! :
 Quit : 
 making : 
 up : 
 rules : 
-! : 6
+! :
 
 Let go! Come on, it's my cart. @ 
 Let : 
 go : 
-! : 6
+! :
 Come : 
 on : 
 it's : 
@@ -2911,19 +2911,19 @@ take :
 me : 
 with : 
 it : 
-! : 6
+! :
 
--Yes! Did you see that? -You were incredible. @ 
+-Yes! Did you see that? -You were incredible. @ 5
 Yes : 
-! : 6
+! :
 Did : 
 you : 
 see : 
 that : 
-? : 3
+? :
 You : 
 were : 
-incredible : 
+incredible : 5
 
 A brand-new woman, ladies and gentlemen. @ 
 A : 
@@ -2933,7 +2933,7 @@ ladies :
 and : 
 gentlemen : 
 
-Thank you. I could not have done this without you. @ 
+Thank you. I could not have done this without you. @ 3
 Thank : 
 you : 
 I : 
@@ -2951,9 +2951,9 @@ clothes :
 in : 
 the : 
 dryer : 
-? : 3
+? :
 
--I'm fine. I'm fine. -Are you sure? @ 
+-I'm fine. I'm fine. -Are you sure? @ 3
 I'm : 
 fine : 
 I'm : 
@@ -2961,7 +2961,7 @@ fine :
 Are : 
 you : 
 sure : 
-? : 3
+? :
 
 -Are you sure you' re okay? -Yeah. @ 
 Are : 
@@ -2970,7 +2970,7 @@ sure :
 you' : 
 re : 
 okay : 
-? : 3
+? :
 Yeah : 
 
 -Does it still hurt? -Yeah. @ 
@@ -2978,15 +2978,15 @@ Does :
 it : 
 still : 
 hurt : 
-? : 3
+? :
 Yeah : 
 
-What a neat idea! All your clothes match. I' m gonna do this. @ 
+What a neat idea! All your clothes match. I' m gonna do this. @ 2
 What : 
 a : 
 neat : 
 idea : 
-! : 6
+! :
 All : 
 your : 
 clothes : 
@@ -2997,13 +2997,13 @@ gonna :
 do : 
 this : 
 
--How'd it go? -Excellent! @ 
+-How'd it go? -Excellent! @ 2
 How'd : 
 it : 
 go : 
-? : 3
-Excellent : 
-! : 6
+? :
+Excellent : 2
+! :
 
 We ripped that couple apart and kept the pieces for ourselves. @ 
 We : 
@@ -3018,10 +3018,10 @@ pieces :
 for : 
 ourselves : 
 
-What a beautiful story. @ 
+What a beautiful story. @ 1
 What : 
 a : 
-beautiful : 
+beautiful : 1
 story : 
 
 -I'm fine, by the way. -I'm sorry. @ 
@@ -3031,27 +3031,27 @@ by :
 the : 
 way : 
 I'm : 
-sorry : 
+sorry : 6
 
 -Where's Chandler? -He needed time to grieve. @ 
 Where's : 
 Chandler : 
-? : 3
+? :
 He : 
 needed : 
 time : 
 to : 
 grieve : 
 
-I' m free! I' m free! @ 
+I' m free! I' m free! @ 1
 I' : 
 m : 
-free : 
-! : 6
+free : 1
+! :
 I' : 
 m : 
-free : 
-! : 6
+free : 1
+! :
 
 That ought to do it. @ 
 That : 
@@ -3059,10 +3059,3 @@ ought :
 to : 
 do : 
 it : 
-
-</BODY> @ 
-</BODY> : 
-
-</SAMI @ 
-</SAMI : 
-
