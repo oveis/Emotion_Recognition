@@ -43,7 +43,7 @@ int main(int argc, char* argv[])
 
     output_file << buff << " @ " << endl;
     string word;
-    while( ss >> word){
+    while( ss >> word ){
       int pos;
       bool checking = true;
       while(checking){
@@ -55,6 +55,10 @@ int main(int argc, char* argv[])
 	  word.replace(pos, 1, "");
 	}else if((pos=word.find("l' m")) != string::npos)
 	  word.replace(pos, 4, "I'm");
+	else if((pos=word.find("you' re")) != string::npos)
+	  word.replace(pos, 7, "you're");
+	else if((pos=word.find("They' re")) != string::npos)
+	  word.replace(pos, 8, "They're");
 	else
 	  checking = false;
       }

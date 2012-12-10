@@ -2887,15 +2887,17 @@ didn't :
 you : 
 ? :
 
--How do you do that? -I hate you. @ 2
+-How do you do that? @ 1
 How : 
 do : 
 you : 
 do : 
 that : 
 ? :
+
+I hate you. @ 5
 I : 
-hate : 
+hate : 5
 you : 
 
 I' m pushing my aunt through Parrot Jungle, you' re having sex. @ 
@@ -2912,7 +2914,7 @@ re :
 having : 
 sex : 
 
-So, who? @ 
+So, who? @ 2
 So : 
 who : 
 ? :
@@ -2934,7 +2936,7 @@ I :
 know : 
 Paul : 
 
-You mean, you know Paul like I know Paul? @ 
+You mean, you know Paul like I know Paul? @ 2
 You : 
 mean : 
 you : 
@@ -3014,9 +3016,9 @@ men :
 
 Don't hate. You don't want to put that out into the universe. @ 
 Don't : 
-hate : 
+hate : 5
 You : 
-don't : 5
+don't : 
 want : 
 to : 
 put : 
@@ -3164,12 +3166,14 @@ great :
 boots" : 
 boots : 
 
--How did you pay? -Credit card. @ 
+-How did you pay? @
 How : 
 did : 
 you : 
 pay : 
 ? :
+
+-Credit card. @ 
 Credit : 
 card : 
 
@@ -3185,31 +3189,35 @@ My father. @
 My : 
 father : 
 
-Is this really necessary? I can stop charging any time. @ 
+Is this really necessary? @ 2
 Is : 
 this : 
 really : 
 necessary : 
 ? :
+
+I can stop charging any time. @ 2
 I : 
-can : 
+can : 2
 stop : 
 charging : 
 any : 
 time : 
 
-You can't live off your parents. @ 
+You can't live off your parents. @ 2
 You : 
-can't : 
+can't : 2 
 live : 
 off : 
 your : 
 parents : 
 
-I know that. That's why I was getting married. @ 
+I know that. @ 2
 I : 
 know : 
 that : 
+
+That's why I was getting married. @ 
 That's : 
 why : 
 I : 
@@ -3217,11 +3225,13 @@ was :
 getting : 
 married : 
 
-Give her a break. It's hard being on your own. @ 
+Give her a break. @ 
 Give : 
 her : 
 a : 
 break : 
+
+It's hard being on your own. @ 
 It's : 
 hard : 
 being : 
@@ -3230,7 +3240,7 @@ your :
 own : 
 
 Thank you. @ 1
-Thank : 
+Thank : 1
 you : 
 
 I remember when I first came to this city, I was 1 4. @ 
