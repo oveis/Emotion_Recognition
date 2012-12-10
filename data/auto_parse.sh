@@ -2,7 +2,7 @@
 
 a="smi"
 b="txt"
-c="./learning_set"
+c="./training_set"
 
 cp ./training_set/*.smi ./
 
