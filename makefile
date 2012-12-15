@@ -4,7 +4,6 @@ CC = main.cpp naiveBayes.cpp database.cpp
 CC = g++
 #CXXFLAGS = -O2
 CXXFLAGS = -g
-socklibs = -lnsl
 LIBPTHREAD = -lpthread
 LIBS = 
 OBJS = main.o naiveBayes.o database.o
