@@ -29,7 +29,7 @@ int main(int argc, char* argv[]){
     }
 
     // use Naive Bayes algorithm
-    NaiveBayes nb(db->getLearningMap());
+    NaiveBayes nb(db);
 
     int emotion_id = nb.getEmotion(input_text);
     string emotion_name = db->getEmotionName(emotion_id);
@@ -39,14 +39,4 @@ int main(int argc, char* argv[]){
   return 0;
 }
 
-void showResult(Database *db){
-  for(int i=0; i<7; i++){
-    for(int j=0; j<7; j++){
-      double prob = db->getStateTransitionProb(i, j);
-      cout << prob << endl;
-      //printf("[%d][%d] %f\t", i, j, prob);
-    }
-    cout << endl;
-  }
-}
 

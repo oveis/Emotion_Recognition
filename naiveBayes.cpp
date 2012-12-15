@@ -1,38 +1,14 @@
 #include "naiveBayes.h"
 
-NaiveBayes::NaiveBayes(map<int, Emotion*> learning_map_)
-    :learning_map(learning_map_)
+NaiveBayes::NaiveBayes(Database *db)
 {
-  init();
+  learning_map = db->getLearningMap();
+  total_word = db->getTrainTotalWord();
+  emotion_prob = db->getInitialEmotionProb();
 }
 
 NaiveBayes::~NaiveBayes()
 {
-}
-
-void NaiveBayes::init(){
-  total_sentence = 0;
-  total_word = 0;
-  map<int, Emotion*>::iterator it;
-  for(it = learning_map.begin(); it != learning_map.end(); it++){
-    Emotion *emotion = it->second;
-
-    total_sentence += emotion->sentence_count;
-    emotion_prob[it->first] = emotion->sentence_count;
-
-    map<string, WordInfo*> words_map = emotion->words_map;;
-    map<string, WordInfo*>::iterator w_it;
-    for(w_it = words_map.begin(); w_it != words_map.end(); w_it++){
-      total_word += w_it->second->count;
-    }
-  }
-  
-  map<int, double>::iterator e_it;
-  for(e_it = emotion_prob.begin(); e_it != emotion_prob.end(); e_it++){
-    int emotion_num = e_it->first;
-    double prob = e_it->second / (double)total_sentence;
-    emotion_prob[emotion_num] = prob;
-  }
 }
 
 int NaiveBayes::getEmotion(string input){
@@ -82,7 +58,6 @@ int NaiveBayes::calNaiveBayes(vector<string> words){
       max_emotion_num = emotion_num;
     }
   }
-  cout << "\ntotal sentence : " << total_sentence << endl;
   cout << "total word : " << total_word << endl;
   return max_emotion_num;
 }

@@ -20,6 +20,8 @@ Database::Database(){
   getLearningData();
   // Read transfer data
   getTransferData();
+  // Calculate Initial Emotion Probability / Total Train word & sentence
+  calInitialEmotionProb();
 }
 
 Database::~Database(){
@@ -64,6 +66,7 @@ Database::getLearningData(){
       learning_map[sentence_emotion]->sentence_count++;
       prev_sentence_emotion = sentence_emotion;
       total_sentence++;
+
     }else if((pos = buff.find(":")) != string::npos){   // word
       stringstream ss;
       string word;
@@ -100,10 +103,8 @@ Database::getLearningData(){
   
   // Calculate State Transition Probability
   for(int i=0; i<7; i++)
-    for(int j=0; j<7; j++){
+    for(int j=0; j<7; j++)
       state_transition_prob[i][j] /= total_sentence;
-      cout << state_transition_prob[i][j] << endl;
-    }
   
 }
 
@@ -134,5 +135,32 @@ Database::getTransferData(){
 	transfer_map[word] = aim_word;
       }
     }
+  }
+}
+
+// Calculate Initial Emotion Probability
+void
+Database::calInitialEmotionProb(){
+  train_total_sentence = 0;
+  train_total_word = 0;
+  map<int, Emotion*>::iterator it;
+  for(it = learning_map.begin(); it != learning_map.end(); it++){
+    Emotion *emotion = it->second;
+
+    train_total_sentence += emotion->sentence_count;
+    initial_emotion_prob[it->first] = emotion->sentence_count;
+
+    map<string, WordInfo*> words_map = emotion->words_map;;
+    map<string, WordInfo*>::iterator w_it;
+    for(w_it = words_map.begin(); w_it != words_map.end(); w_it++){
+      train_total_word += w_it->second->count;
+    }
+  }
+  
+  map<int, double>::iterator e_it;
+  for(e_it = initial_emotion_prob.begin(); e_it != initial_emotion_prob.end(); e_it++){
+    int emotion_num = e_it->first;
+    double prob = e_it->second / (double)train_total_sentence;
+    initial_emotion_prob[emotion_num] = prob;
   }
 }
