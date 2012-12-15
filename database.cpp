@@ -5,6 +5,7 @@ Database::Database(){
   emotion_class_file.open("./data/class_table/emotion_class.txt");
   learning_data_file.open("./data/learning_set/learning.db.txt");
   not_important_words_file.open("./data/learning_set/not_important_words.txt");
+  transfer_file.open("./data/learning_set/transfer.txt");
 
   // Get data from files
   // Read Class data
@@ -13,6 +14,8 @@ Database::Database(){
   getNotImportantData();
   // Read training data
   getLearningData();
+  // Read transfer data
+  getTransferData();
 }
 
 Database::~Database(){
@@ -61,6 +64,10 @@ Database::getLearningData(){
 	continue;  // If this is not important word, skip this.
       }
 
+      // Transfer this word into original word
+      if(transfer_map.find(word) != transfer_map.end())
+	word = transfer_map[word];
+
       int word_emotion;
       if(buff.substr(pos+1) == " ")
 	word_emotion = 0;
@@ -92,3 +99,20 @@ Database::getNotImportantData(){
 
 // Transfer 
 // ex) loving, lovely, love   ==> love
+void
+Database::getTransferData(){
+  string buff;
+  string aim_word;
+  while(getline(transfer_file, buff)){
+    stringstream ss;
+    string word, division;
+    ss << buff;
+    ss >> aim_word;
+    ss >> division;
+    if(division == ":"){
+      while(ss >> word){
+	transfer_map[word] = aim_word;
+      }
+    }
+  }
+}
