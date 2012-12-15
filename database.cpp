@@ -7,6 +7,10 @@ Database::Database(){
   not_important_words_file.open("./data/learning_set/not_important_words.txt");
   transfer_file.open("./data/learning_set/transfer.txt");
 
+  for(int i=0; i<7; i++)
+    for(int j=0; j<7; j++)
+      state_transition_prob[i][j] = 0;
+
   // Get data from files
   // Read Class data
   getClassTable();
@@ -44,6 +48,9 @@ void
 Database::getLearningData(){
   string buff;
   int sentence_emotion = 0;
+  int prev_sentence_emotion = 0;
+  int total_sentence = 0;
+
   while(getline(learning_data_file, buff)){
     int pos;
     if((pos = buff.find("@")) != string::npos){         // sentence
@@ -51,8 +58,12 @@ Database::getLearningData(){
 	sentence_emotion = 0;
       else
 	sentence_emotion = atoi( buff.substr(pos+1).c_str() );
+
       // Increate count
+      state_transition_prob[prev_sentence_emotion][sentence_emotion]++;  // state_transition_probability
       learning_map[sentence_emotion]->sentence_count++;
+      prev_sentence_emotion = sentence_emotion;
+      total_sentence++;
     }else if((pos = buff.find(":")) != string::npos){   // word
       stringstream ss;
       string word;
@@ -85,6 +96,15 @@ Database::getLearningData(){
       sentence_emotion = 0;
     }
   }
+
+  
+  // Calculate State Transition Probability
+  for(int i=0; i<7; i++)
+    for(int j=0; j<7; j++){
+      state_transition_prob[i][j] /= total_sentence;
+      cout << state_transition_prob[i][j] << endl;
+    }
+  
 }
 
 // Get not important words to skip this words in the training data
