@@ -41,18 +41,18 @@ int NaiveBayes::calNaiveBayes(vector<string> words){
     cout << "words size : " << words.size() << endl;
     for(int i=0; i<words.size(); i++){
       if(emotion->words_map.find( words[i] ) != emotion->words_map.end()){
-	//result *= emotion->words_map[ words[i] ]->count / total_word;
-	result *= emotion->words_map[ words[i] ]->count;
-	// test
-	cout << "word : " << words[i] << ", count : " << emotion->words_map[ words[i] ]->count << endl;
+        //result *= emotion->words_map[ words[i] ]->count / total_word;
+        result *= emotion->words_map[ words[i] ]->count;
+        // test
+        cout << "word : " << words[i] << ", count : " << emotion->words_map[ words[i] ]->count << endl;
       }else{
-	//result *= 1 / total_word;
+        //result *= 1 / total_word;
       }
     }
     
     cout << "result >> " << result << endl;
     
-
+    
     if(result > max_emotion_prob){
       max_emotion_prob = result;
       max_emotion_num = emotion_num;

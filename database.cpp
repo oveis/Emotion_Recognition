@@ -57,9 +57,9 @@ Database::getLearningData(){
     int pos;
     if((pos = buff.find("@")) != string::npos){         // sentence
       if(buff.substr(pos+1) == " ")
-	sentence_emotion = 0;
+        sentence_emotion = 0;
       else
-	sentence_emotion = atoi( buff.substr(pos+1).c_str() );
+        sentence_emotion = atoi( buff.substr(pos+1).c_str() );
 
       // Increate count
       state_transition_prob[prev_sentence_emotion][sentence_emotion]++;  // state_transition_probability
@@ -67,7 +67,7 @@ Database::getLearningData(){
       prev_sentence_emotion = sentence_emotion;
       total_sentence++;
 
-    }else if((pos = buff.find(":")) != string::npos){   // word
+    } else if((pos = buff.find(":")) != string::npos){   // word
       stringstream ss;
       string word;
       ss << buff;
@@ -75,24 +75,24 @@ Database::getLearningData(){
 
       // Check it this word is not-importat or not
       if(not_important_map.find(word) != not_important_map.end()){
-	continue;  // If this is not important word, skip this.
+        continue;  // If this is not important word, skip this.
       }
 
       // Transfer this word into original word
       if(transfer_map.find(word) != transfer_map.end())
-	word = transfer_map[word];
+        word = transfer_map[word];
 
       int word_emotion;
       if(buff.substr(pos+1) == " ")
-	word_emotion = 0;
+        word_emotion = 0;
       else
-	word_emotion = atoi( buff.substr(pos+1).c_str() );
+        word_emotion = atoi( buff.substr(pos+1).c_str() );
       Emotion *emotion = learning_map[sentence_emotion];
       if(emotion->words_map.find(word) == emotion->words_map.end()){
-	//	WordInfo wordInfo(word_emotion);
-	emotion->words_map[word] = new WordInfo(word_emotion);
+        //	WordInfo wordInfo(word_emotion);
+        emotion->words_map[word] = new WordInfo(word_emotion);
       }else{
-	emotion->words_map[word]->count += 1;	
+        emotion->words_map[word]->count += 1;
       }
       learning_map[sentence_emotion] = emotion;
     }else{                                               // blank
@@ -100,12 +100,12 @@ Database::getLearningData(){
     }
   }
 
-  
+
   // Calculate State Transition Probability
   for(int i=0; i<7; i++)
     for(int j=0; j<7; j++)
       state_transition_prob[i][j] /= total_sentence;
-  
+
 }
 
 // Get not important words to skip this words in the training data
