@@ -1,11 +1,11 @@
 .SUFFIXES: .h .o .cpp
 
-CC = main.cpp naiveBayes.cpp database.cpp nGram.cpp
+CC = main.cpp naiveBayes.cpp database.cpp nGram.cpp viterbi.cpp
 CC = g++
 #CXXFLAGS = -O2
 CXXFLAGS = -g
 LIBS = 
-OBJS = main.o naiveBayes.o database.o nGram.o
+OBJS = main.o naiveBayes.o database.o nGram.o viterbi.o
 CCEXEC = emotion
 NGRAMTEST = ngram_test
 NGRAMFILE = ngramTest.cpp
@@ -20,8 +20,8 @@ $(CCEXEC):	$(OBJS) makefile
 	@echo Compiling $< . . .
 	$(CC) $(CXXFLAGS) $<
 
-$(NGRAMTEST):$(NGRAMFILE) nGram.o
-	$(CC) $(NGRAMFILE) nGram.o -o $(NGRAMTEST)
+$(NGRAMTEST):$(NGRAMFILE) naiveBayes.o database.o nGram.o
+	$(CC) $(NGRAMFILE) naiveBayes.o database.o nGram.o -o $(NGRAMTEST)
 run:	all
 	./$(CCEXEC)
 

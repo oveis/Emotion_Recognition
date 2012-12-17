@@ -5,7 +5,7 @@ Database::Database(){
   emotion_class_file.open("./data/class_table/emotion_class.txt");
   learning_data_file.open("./data/learning_set/learning.db.txt");
   not_important_words_file.open("./data/learning_set/not_important_words.txt");
-  transfer_file.open("./data/learning_set/transfer.txt");
+  transfer_file.open("./data/learning_set/transfer_table.txt");
 
   for(int i=0; i<7; i++)
     for(int j=0; j<7; j++)
@@ -60,7 +60,9 @@ Database::getLearningData(){
         sentence_emotion = 0;
       else
         sentence_emotion = atoi( buff.substr(pos+1).c_str() );
-
+      
+      dbSeq.push_back(sentence_emotion);
+      dbSen.push_back(buff);
       // Increate count
       state_transition_prob[prev_sentence_emotion][sentence_emotion]++;  // state_transition_probability
       learning_map[sentence_emotion]->sentence_count++;
@@ -162,5 +164,39 @@ Database::calInitialEmotionProb(){
     int emotion_num = e_it->first;
     double prob = e_it->second / (double)train_total_sentence;
     initial_emotion_prob[emotion_num] = prob;
+  }
+}
+
+// Parse String as vector<string>
+// if the word can transfer, transfer it.
+vector<string>
+Database::parseText(string text){
+  stringstream ss;
+  vector<string> words;
+  string word;
+  ss << text;
+  while(ss >> word){
+    if(transfer_map.find(word) != transfer_map.end())
+      word = transfer_map[word];
+    words.push_back(word);
+  }
+  return words;
+}
+
+// Show State Transition Probability
+void
+Database::showStateTransProb(){
+  cout << "\t";
+  for(int i=0; i<7; i++){
+      cout << getEmotionName(i) << "\t";
+  }
+  cout << endl;
+    
+  for(int i=0; i<7; i++){
+    cout << getEmotionName(i) << "\t| ";
+    for(int j=0; j<7; j++){
+      cout << state_transition_prob[i][j] << "\t| ";
+    }
+    cout << endl;
   }
 }

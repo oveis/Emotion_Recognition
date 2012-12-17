@@ -19,4 +19,12 @@ struct Emotion{
     :name(name_), sentence_count(1){ }
 };
 
+struct TextInfo{
+  string text;
+  int emotion_id;
+  double nb_prob;
+  TextInfo(string str, int emotion_id_, double nb_prob_)
+    :text(str), emotion_id(emotion_id_), nb_prob(nb_prob_){ }
+};
+
 #endif

@@ -22,6 +22,9 @@ class Database{
   double state_transition_prob[7][7];
   unsigned int train_total_sentence;
   unsigned int train_total_word;
+  vector<TextInfo*> text_sequence;     // Save user's input string sequentially
+  vector<int> dbSeq;
+  vector<string> dbSen;
 
  public:
   Database();
@@ -39,6 +42,16 @@ class Database{
   double getInitialEmotionProb(int id){ return initial_emotion_prob[id]; }
   unsigned int getTrainTotalSentence(){ return train_total_sentence; }
   unsigned int getTrainTotalWord(){ return train_total_word; }
+  
+  void pushTextSequence(TextInfo* textInfo){ text_sequence.push_back(textInfo); }
+  vector<TextInfo*> getTextSequence(){ return text_sequence; }
+  string getPreText(int i){ 
+    return text_sequence[ text_sequence.size()-i ]->text; 
+  }
+  vector<string> parseText(string text);
+  vector<int> getDbSeq(){ return dbSeq; }
+  vector<string> getDbSen(){ return dbSen; }
+  void showStateTransProb();
 };
 
 #endif
