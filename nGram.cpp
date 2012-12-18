@@ -27,6 +27,7 @@ void Learn::loadHistSeq() {
       dbSeq.push_back(em);
       dbSen.push_back(buff);
       eachEmcount[em] ++;
+
     }
   }
   /*  for (int i = 0; i<eachEmcount.size();i++)

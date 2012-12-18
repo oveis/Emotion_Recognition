@@ -62,13 +62,12 @@ Database::getLearningData(){
         sentence_emotion = atoi( buff.substr(pos+1).c_str() );
       
       dbSeq.push_back(sentence_emotion);
-      dbSen.push_back(buff);
+      dbSen.push_back(buff.substr(0, pos-1));
       // Increate count
       state_transition_prob[prev_sentence_emotion][sentence_emotion]++;  // state_transition_probability
       learning_map[sentence_emotion]->sentence_count++;
       prev_sentence_emotion = sentence_emotion;
       total_sentence++;
-
     } else if((pos = buff.find(":")) != string::npos){   // word
       stringstream ss;
       string word;
@@ -102,12 +101,14 @@ Database::getLearningData(){
     }
   }
 
-
   // Calculate State Transition Probability
-  for(int i=0; i<7; i++)
+  for(int i=0; i<7; i++){
+    int total = 0;
     for(int j=0; j<7; j++)
-      state_transition_prob[i][j] /= total_sentence;
-
+      total += state_transition_prob[i][j];
+    for(int j=0; j<7; j++)
+      state_transition_prob[i][j] /= total;
+  }
 }
 
 // Get not important words to skip this words in the training data

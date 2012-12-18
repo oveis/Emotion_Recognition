@@ -74,7 +74,7 @@ int main(int argc, char* argv[]){
 	int vt_emotion_id = vt.getEmotion(input_text, vt_prob);
 	string vt_emotion_name = db->getEmotionName(vt_emotion_id);
 	cout << "emotion(Viterbi) : " << vt_emotion_name << endl;
-	cout << "probability : " << vt_prob << endl << endl;
+	//cout << "probability : " << vt_prob << endl << endl;
 	// Save input text as history
 	db->pushTextSequence(new TextInfo(input_text, vt_emotion_id, vt_prob));
       }else{
@@ -132,4 +132,10 @@ void showStatistics(int N, Database *db){
   cout << endl;
   cout << "Sate Transition Probability" << endl;
   db->showStateTransProb();
+  
+  cout << endl;
+  cout << "Database" << endl;
+  cout << "Total State of Emotion : 7" << endl;
+  cout << "Total Sentences : " << db->getTrainTotalSentence() << endl;
+  cout << "Total Words : " << db->getTrainTotalWord() << endl;
 }
